@@ -4,7 +4,7 @@
 
 > 无人机精选集合 —— 自主飞行、集群控制、路径规划、视觉导航、竞速等资源自动收录
 
-![收录](https://img.shields.io/badge/%E6%94%B6%E5%BD%95-2755-blue?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-1836k%2B-yellow?style=flat-square) ![今日新增](https://img.shields.io/badge/%E4%BB%8A%E6%97%A5%E6%96%B0%E5%A2%9E-2755-green?style=flat-square) ![更新](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0-2026-03-01-orange?style=flat-square)
+![收录](https://img.shields.io/badge/%E6%94%B6%E5%BD%95-2755-blue?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-1836k%2B-yellow?style=flat-square) ![今日新增](https://img.shields.io/badge/%E4%BB%8A%E6%97%A5%E6%96%B0%E5%A2%9E-0-green?style=flat-square) ![更新](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0-2026-03-02-orange?style=flat-square)
 
 ---
 
@@ -33,22 +33,30 @@
 
 ---
 
-## 🔥 每日热门 (2026-03-01)
+## 🔥 每日热门 (2026-03-02)
 
 | # | 项目 | ⭐ | 📈 日增 | 描述 |
 |:-:|------|---:|-------:|------|
-| 1 | [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) | 1,037 | +1 | 无人机记录分析器:是一个高性能的通用仪表板应用程序,用于在一个地方私下组织和分析DJI/Litchi... |
-| 2 | [JacopoPan/aerial-autonomy-stack](https://github.com/JacopoPan/aerial-autonomy-stack) | 333 | +1 | 基于感知的PX4/ArduPilot无人机使用ROS2,YOLO,LiDAR和NVIDIA Jets... |
-| 3 | [mahran-sayed/awesome-aerospace-engineering](https://github.com/mahran-sayed/awesome-aerospace-engineering) | 320 | +1 | 航空航天工程学习资源的列表 ️ |
-| 4 | [I-M-Robotics-Lab/STM32-Quadcopter](https://github.com/I-M-Robotics-Lab/STM32-Quadcopter) | 28 | +1 | 基于STM32F411CEU黑皮飞行控制器的四旋翼设计.与INAV 6.0固件兼容. |
-| 5 | [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) | 454 | +1 | :bird:用于控制多轮机无刷电机的数字ESC固件 |
-| 6 | [PX4/PX4-user_guide](https://github.com/PX4/PX4-user_guide) | 417 | +1 | PX4用户指南来源 (档案) |
-| 7 | [PX4/PX4-Devguide](https://github.com/PX4/PX4-Devguide) | 209 | +1 | 编辑器 |
-| 8 | [robustini/eXploraVTOL](https://github.com/robustini/eXploraVTOL) | 134 | +1 | 电子电脑系统 |
-| 9 | [ArduPilot/node-mavlink](https://github.com/ArduPilot/node-mavlink) | 95 | +1 | 通过多种媒体发送和接收MavLink消息, |
-| 10 | [rlew631/ObjectTrackingDrone](https://github.com/rlew631/ObjectTrackingDrone) | 47 | +1 | 无人机带/摄像头带,由Pixhawk和Raspberry Pi控制,运行OpenCV |
-| 11 | [Insta360-Research-Team/AirSim360](https://github.com/Insta360-Research-Team/AirSim360) | 87 | +1 | 官方实施"AirSim360:在无人机视图中设置全景模拟平台" |
-| 12 | [rahulsarchive/FOS_UAV](https://github.com/rahulsarchive/FOS_UAV) | 53 | +1 | 一个自动开源的固定翼空中侦察和绘图平台 |
+| 1 | [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) | 1,042 | +5 | 无人机记录分析器:是一个高性能的通用仪表板应用程序,用于在一个地方私下组织和分析DJI/Litchi... |
+| 2 | [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) | 14,578 | +2 | 机器人,机器人,机器人,机器人 |
+| 3 | [kousheekc/isaac_drone_racer](https://github.com/kousheekc/isaac_drone_racer) | 165 | +2 | 艾萨克无人机赛车是高速度自动驾驶无人机赛车的强化学习框架, |
+| 4 | [lis-epfl/vswarm](https://github.com/lis-epfl/vswarm) | 84 | +2 | 基于视觉的无人机群体模拟和部署的ROS包 |
+| 5 | [aau-cns/Ardupilot_Multiagent_Simulation](https://github.com/aau-cns/Ardupilot_Multiagent_Simulation) | 83 | +2 | 使用 Ardupilot,ROS 2 和 Gazebo 的多代理无人机系统的模拟环境,使用户能够在可... |
+| 6 | [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) | 11,170 | +1 | 专用驾驶软件 |
+| 7 | [iNavFlight/inav](https://github.com/iNavFlight/inav) | 3,969 | +1 | 航空航母:可导航的飞行控制软件 |
+| 8 | [jyjblrd/Low-Cost-Mocap](https://github.com/jyjblrd/Low-Cost-Mocap) | 2,260 | +1 | 低成本的运动捕捉系统,用于室内尺度跟踪 |
+| 9 | [mavlink/mavlink](https://github.com/mavlink/mavlink) | 2,182 | +1 | 无人机的通讯图书馆. |
+| 10 | [utiasDSL/gym-pybullet-drones](https://github.com/utiasDSL/gym-pybullet-drones) | 1,857 | +1 | PyBullet Gymnasium环境,用于单机和多机器人增强学习四旋翼控制 |
+| 11 | [mit-acl/faster](https://github.com/mit-acl/faster) | 1,196 | +1 | 在未知的环境中进行3D轨迹规划器 |
+| 12 | [rtlopez/esp-fc](https://github.com/rtlopez/esp-fc) | 574 | +1 | 飞行控制器软件 - 专业化 - 建立自己的飞行控制器. |
+| 13 | [mavlink-router/mavlink-router](https://github.com/mavlink-router/mavlink-router) | 567 | +1 | 路线和终端点之间的链接包 |
+| 14 | [young-how/DQN-based-UAV-3D_path_planer](https://github.com/young-how/DQN-based-UAV-3D_path_planer) | 529 | +1 | 轮飞机 (RLGF) 是一个适合无人机深度增强学习任务的一般培训框架.并集成多个主流深度增强学习算法... |
+| 15 | [OpenHUTB/hutb](https://github.com/OpenHUTB/hutb) | 441 | +1 | 人车模拟器 |
+| 16 | [qqqlab/madflight](https://github.com/qqqlab/madflight) | 387 | +1 | 飞行控制器 ESP32 / Raspberry Pico / STM32 |
+| 17 | [kitoweeknd/RFUAV](https://github.com/kitoweeknd/RFUAV) | 350 | +1 | 这是一个官方的文件库"RFUAV:无人机飞行器检测和识别的基准数据集".代码包括使用一些FFT/ST... |
+| 18 | [aerostack2/aerostack2](https://github.com/aerostack2/aerostack2) | 304 | +1 | 机器人系统是ROS 2框架,旨在以简单而强大的方式创建自主多机机器人系统. |
+| 19 | [opendroneid/opendroneid-core-c](https://github.com/opendroneid/opendroneid-core-c) | 293 | +1 | 开放无人机ID核心C库 |
+| 20 | [KumarRobotics/kr_mav_control](https://github.com/KumarRobotics/kr_mav_control) | 147 | +1 | 四旋翼控制代码 |
 
 ---
 
@@ -77,7 +85,7 @@
 | [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) | 8,273 | Rust | 使用陀螺镜数据的视频稳定 |
 | [facontidavide/PlotJuggler](https://github.com/facontidavide/PlotJuggler) | 5,731 | C++ | 你应该得到的时间系列视觉工具. |
 | [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol) | 4,378 | C++ | 无人机 (Android,iOS,Mac OS,Linux,Windows) 跨平台地面控制站 |
-| [iNavFlight/inav](https://github.com/iNavFlight/inav) | 3,968 | C | 航空航母:可导航的飞行控制软件 |
+| [iNavFlight/inav](https://github.com/iNavFlight/inav) | 3,969 | C | 航空航母:可导航的飞行控制软件 |
 | [inavFlight/inav](https://github.com/iNavFlight/inav) | 3,968 | C | 航空航母:可导航的飞行控制软件 |
 | [cleanflight/cleanflight](https://github.com/cleanflight/cleanflight) | 2,713 | C | 基本飞行飞行控制器固件的清洁代码版本 |
 | [but0n/Avem](https://github.com/but0n/Avem) | 2,676 | C |  轻量级无人机飞控-[无人机]-[STM32]-[PID]-[BLDC] |
@@ -101,7 +109,7 @@
 | [bw1129/PIDtoolbox](https://github.com/bw1129/PIDtoolbox) | 641 | MATLAB |  PIDtoolbox 是分析黑盒日志数据的图形工具集 |
 | [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) | 605 | Python | 维基问题库和特定维基网站基础设施. |
 | [sieuwe1/Autonomous-Ai-drone-scripts](https://github.com/sieuwe1/Autonomous-Ai-drone-scripts) | 576 | Python | 通过AI,计算机视觉,Lidar和GPS来控制基于升机的四旋翼直升机的最新自动导航脚本. |
-| [rtlopez/esp-fc](https://github.com/rtlopez/esp-fc) | 573 | C++ | 飞行控制器软件 - 专业化 - 建立自己的飞行控制器. |
+| [rtlopez/esp-fc](https://github.com/rtlopez/esp-fc) | 574 | C++ | 飞行控制器软件 - 专业化 - 建立自己的飞行控制器. |
 | [ArduPilot/MAVProxy](https://github.com/ArduPilot/MAVProxy) | 556 | Python | 据MAVLink代理和命令线地面站 |
 | [ArduPilot/apm_planner](https://github.com/ArduPilot/apm_planner) | 547 | C++ | 美国国家安全局 (APM Planner Ground Control Station) |
 | [yaapu/FrskyTelemetryScript](https://github.com/yaapu/FrskyTelemetryScript) | 540 | Lua | 通过ArduPilot frsky passthrru协议使用Horus X10(S),X12和Taranis X9D+,X9E,QX7和X... |
@@ -123,7 +131,7 @@
 | [HKUST-Aerial-Robotics/Fast-Planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner) | 3,194 | C++ | 四旋翼的强大而有效的轨迹规划器 |
 | [jonyzhang2023/awesome-embodied-vla-va-vln](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln) | 2,610 | - | 精选的AI最新研究列表,重点关注视觉语言行动 (VLA) 模型,视觉语言导航 (VLN) 和相关的多模式学习方法. |
 | [HKUST-Aerial-Robotics/FUEL](https://github.com/HKUST-Aerial-Robotics/FUEL) | 1,343 | C++ | 快速探测无人机的有效框架 |
-| [mit-acl/faster](https://github.com/mit-acl/faster) | 1,195 | C++ | 在未知的环境中进行3D轨迹规划器 |
+| [mit-acl/faster](https://github.com/mit-acl/faster) | 1,196 | C++ | 在未知的环境中进行3D轨迹规划器 |
 | [ZJU-FAST-Lab/GCOPTER](https://github.com/ZJU-FAST-Lab/GCOPTER) | 1,167 | C++ | 对于多升机的通用轨道优化器 |
 | [HKUST-Aerial-Robotics/Teach-Repeat-Replan](https://github.com/HKUST-Aerial-Robotics/Teach-Repeat-Replan) | 1,126 | C++ | 教导重复重复:在复杂环境中进行侵略飞行的完整和强大的系统 |
 | [yrlu/quadrotor](https://github.com/yrlu/quadrotor) | 1,087 | MATLAB | 四旋翼控制,路径规划和轨迹优化 |
@@ -199,7 +207,7 @@
 | [sangwoomoon/multiple_UAVs](https://github.com/sangwoomoon/multiple_UAVs) | 88 | Matlab | 连接机器的等级多代理系统 |
 | [damwhit/harvest_helper](https://github.com/damwhit/harvest_helper) | 88 | Ruby | 提供了数据库中的45种植物的种植,收获和食谱信息, |
 | [afrl-rq/OpenAMASE](https://github.com/afrl-rq/OpenAMASE) | 87 | Java | 模拟多无人机任务项目 |
-| [lis-epfl/vswarm](https://github.com/lis-epfl/vswarm) | 82 | Python | 基于视觉的无人机群体模拟和部署的ROS包 |
+| [lis-epfl/vswarm](https://github.com/lis-epfl/vswarm) | 84 | Python | 基于视觉的无人机群体模拟和部署的ROS包 |
 | [PulkitRustagi/UWB-Localization](https://github.com/PulkitRustagi/UWB-Localization) | 81 | Python | 高精度多代理 UWB定位,用于在无人机和UGV系统合作,在无GPS环境中准确定位. |
 | [afrl-rq/OpenUxAS-SoI](https://github.com/afrl-rq/OpenUxAS-SoI) | 80 | C++ | 多无人机合作决策项目 |
 | [UPatras-ANeMoS/UAV_coverage](https://github.com/UPatras-ANeMoS/UAV_coverage) | 76 | MATLAB | 无人机群的平面面覆盖模拟 |
@@ -223,14 +231,14 @@
 | [OpenDroneMap/OpenDroneMap](https://github.com/OpenDroneMap/ODM) | 5,867 | Python | 通过无人机,气球或飞图像生成地图,点云,3D模型和DEM的命令行工具包. |
 | [abewley/sort](https://github.com/abewley/sort) | 4,334 | Python | 简单,在线,实时跟踪视频序列中的多个对象. |
 | [ifzhang/FairMOT](https://github.com/ifzhang/FairMOT) | 4,230 | Python | [IJCV-2021] 公平性:多个物体跟踪的检测和重新识别 |
-| [jyjblrd/Low-Cost-Mocap](https://github.com/jyjblrd/Low-Cost-Mocap) | 2,259 | TypeScript | 低成本的运动捕捉系统,用于室内尺度跟踪 |
+| [jyjblrd/Low-Cost-Mocap](https://github.com/jyjblrd/Low-Cost-Mocap) | 2,260 | TypeScript | 低成本的运动捕捉系统,用于室内尺度跟踪 |
 | [VisDrone/VisDrone-Dataset](https://github.com/VisDrone/VisDrone-Dataset) | 2,114 | - | 基于无人机的检测和跟踪数据集,包括图像/视频和注释. |
 | [deepmind/tapnet](https://github.com/google-deepmind/tapnet) | 1,804 | Jupyter Notebook | 追踪任何点 (TAP) |
 | [luanshiyinyang/awesome-multiple-object-tracking](https://github.com/luanshiyinyang/awesome-multiple-object-tracking) | 1,452 | - | 多个物体跟踪 (MOT) 的资源 |
 | [xuannianz/EfficientDet](https://github.com/xuannianz/EfficientDet) | 1,451 | Python | 在Keras和Tensorflow中实现EfficientDet (可扩展和有效的对象检测) |
 | [satellite-image-deep-learning/datasets](https://github.com/satellite-image-deep-learning/datasets) | 1,090 | - | 通过卫星和空中图像进行深度学习的数据集 |
 | [WangLibo1995/GeoSeg](https://github.com/WangLibo1995/GeoSeg) | 1,042 | Python | 联合国特形式器:用于远程传感城市场景图像的高效语义分类的UNet类似变压器,ISPRS. 还包括其他视觉变压器和卫星,空中图像和无人机图像分... |
-| [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) | 1,037 | TypeScript | 无人机记录分析器:是一个高性能的通用仪表板应用程序,用于在一个地方私下组织和分析DJI/Litchi飞行记录. |
+| [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) | 1,042 | TypeScript | 无人机记录分析器:是一个高性能的通用仪表板应用程序,用于在一个地方私下组织和分析DJI/Litchi飞行记录. |
 | [SysCV/sam-pt](https://github.com/SysCV/sam-pt) | 1,035 | Python | 扩展SAM到零镜头视频分区,以点式跟踪. |
 | [rodizio1/EZ-WifiBroadcast](https://github.com/rodizio1/EZ-WifiBroadcast) | 892 | C | 价格便宜的数字高清视频传输变得简单! |
 | [chrieke/awesome-geospatial-companies](https://github.com/chrieke/awesome-geospatial-companies) | 838 | Python | :glob_with_meridians: 地质空间工作的700多家公司的清单和地图 (GIS,地球观测,无人机,卫星,数字农业, ..) |
@@ -284,7 +292,7 @@
 | [zjz0001/LIO-Drone-250](https://github.com/zjz0001/LIO-Drone-250) | 138 | C++ | 这里可以使用中360的无人机飞行,它包含了Fast-LIO2的远程测量参考和Ego-Planner的规划模块参考. |
 | [tau-adl/Position-Control-Using-ORBSLAM2-on-the-Jetson-Nano](https://github.com/tau-adl/Position-Control-Using-ORBSLAM2-on-the-Jetson-Nano) | 107 | C++ | 在Jetson Nano上运行ORBSLAM2,使用记录的囊 (例如,EUROC) 或从Bebop2无人机中录制的现场录像 |
 | [TJUUAVLaboratory/ethz_asl_UAV_autonomous](https://github.com/TJUUAVLaboratory/ethz_asl_UAV_autonomous) | 102 | C++ | 苏黎世工业开源的全套自主无人机系统 |
-| [TIERS/uwb-drone-dataset](https://github.com/TIERS/uwb-drone-dataset) | 94 | C | 超宽带 (UWB) 在GNSS被拒绝的环境中自动驾驶无人机飞行定位 |
+| [TIERS/uwb-drone-dataset](https://github.com/TIERS/uwb-drone-dataset) | 95 | C | 超宽带 (UWB) 在GNSS被拒绝的环境中自动驾驶无人机飞行定位 |
 | [zhan994/AgriLiRa4D](https://github.com/zhan994/AgriLiRa4D) | 83 | - | 农业Ra4D:多传感器无人机数据集,用于挑战农业领域的强大的SLAM |
 | [bandofpv/VSLAM-UAV](https://github.com/bandofpv/VSLAM-UAV) | 82 | Shell | 无人机无人机无人机无人机无人机无人机无人机无人机无人机无人机无人机无人机无人机无人机无人机无人机无人机无人机无人机无人机无人机无人机无人机无... |
 | [MetaSLAM/ALTO](https://github.com/MetaSLAM/ALTO) | 74 | - | 航空视野大规模地形导向数据集 |
@@ -314,7 +322,7 @@
 | [pytorch/vision](https://github.com/pytorch/vision) | 17,537 | Python | 计算机视觉特定的数据集,转换和模型 |
 | [DLR-RM/stable-baselines3](https://github.com/DLR-RM/stable-baselines3) | 12,798 | Python | 稳定基线的PyTorch版本,可靠的强化学习算法实施. |
 | [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) | 9,189 | Python | 高质量的单档实现深度强化学习算法,具有研究友好功能 (PPO,DQN,C51,DDPG,TD3,SAC,PPG) |
-| [utiasDSL/gym-pybullet-drones](https://github.com/utiasDSL/gym-pybullet-drones) | 1,856 | Python | PyBullet Gymnasium环境,用于单机和多机器人增强学习四旋翼控制 |
+| [utiasDSL/gym-pybullet-drones](https://github.com/utiasDSL/gym-pybullet-drones) | 1,857 | Python | PyBullet Gymnasium环境,用于单机和多机器人增强学习四旋翼控制 |
 | [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) | 1,689 | - | 精心整理的LLM/VLM/VLA/世界自动驾驶模型 (LLM4AD) 资源 (不断更新) |
 | [Zhefan-Xu/NavRL](https://github.com/Zhefan-Xu/NavRL) | 1,319 | C++ | [IEEE RA-L'25] NavRL:在动态环境中学习安全飞行 (NVIDIA Isaac/Python/ROS1/ROS2) |
 | [Toni-SM/skrl](https://github.com/Toni-SM/skrl) | 1,004 | Python | 模块化增强学习 (RL) 库 (在 PyTorch, JAX 和 NVIDIA Warp 中实现) 支持体育馆/健身房, NVIDIA Is... |
@@ -328,12 +336,12 @@
 | [aharley/pips](https://github.com/aharley/pips) | 597 | Python | 粒子视频复习 |
 | [arplaboratory/learning-to-fly](https://github.com/arplaboratory/learning-to-fly) | 560 | C++ | 在18秒钟内,在笔记本电脑上训练可转移的四旋翼控制策略. |
 | [uzh-rpg/high_mpc](https://github.com/uzh-rpg/high_mpc) | 532 | C | 政策搜索模型预测控制与灵活无人机飞行应用 |
-| [young-how/DQN-based-UAV-3D_path_planer](https://github.com/young-how/DQN-based-UAV-3D_path_planer) | 528 | Python | 轮飞机 (RLGF) 是一个适合无人机深度增强学习任务的一般培训框架.并集成多个主流深度增强学习算法 (SAC,DQN,DDQN,PPO,D... |
+| [young-how/DQN-based-UAV-3D_path_planer](https://github.com/young-how/DQN-based-UAV-3D_path_planer) | 529 | Python | 轮飞机 (RLGF) 是一个适合无人机深度增强学习任务的一般培训框架.并集成多个主流深度增强学习算法 (SAC,DQN,DDQN,PPO,D... |
 | [heleidsn/UAV_Navigation_DRL_AirSim](https://github.com/heleidsn/UAV_Navigation_DRL_AirSim) | 506 | Python | 这是一个用于使用DRL方法训练无人机导航 (本地路径规划) 政策的新备用. |
 | [btx0424/OmniDrones](https://github.com/btx0424/OmniDrones) | 487 | Python |  |
 | [HenryHuYu/DiffPhysDrone](https://github.com/HenryHuYu/DiffPhysDrone) | 469 | Cuda | 根据可分化物理训练的第一台真正的机器人. |
 | [uzh-rpg/rpg_public_dronet](https://github.com/uzh-rpg/rpg_public_dronet) | 449 | Python | 关于"无人机:通过驾驶学习飞行"的文件代码 |
-| [OpenHUTB/hutb](https://github.com/OpenHUTB/hutb) | 440 | C++ | 人车模拟器 |
+| [OpenHUTB/hutb](https://github.com/OpenHUTB/hutb) | 441 | C++ | 人车模拟器 |
 | [wil3/gymfc](https://github.com/wil3/gymfc) | 439 | Python | 统一的飞行控制调整框架 |
 | [JORKER1755/PathPlanning](https://github.com/JORKER1755/PathPlanning) | 356 | Python | 基于深度强化学习的可适应实时路径规划无人机 |
 | [aqeelanwar/PEDRA](https://github.com/aqeelanwar/PEDRA) | 322 | Python | 无人机增强学习应用程序可编程引擎 |
@@ -416,7 +424,7 @@
 | [PX4/PX4-SITL_gazebo-classic](https://github.com/PX4/PX4-SITL_gazebo-classic) | 441 | C++ | 套件插件,模型和世界,用于OSRF Gazebo模拟器在SITL和HITL中. |
 | [UCF-SST-Lab/UCF-SST-CitySim1-Dataset](https://github.com/UCF-SST-Lab/UCF-SST-CitySim1-Dataset) | 407 | Python | 官方的Github页面 |
 | [tu-darmstadt-ros-pkg/hector_quadrotor](https://github.com/tu-darmstadt-ros-pkg/hector_quadrotor) | 399 | C++ | hector_quadrotor包含与四旋翼无人机系统建模,控制和模拟相关的包. |
-| [kitoweeknd/RFUAV](https://github.com/kitoweeknd/RFUAV) | 349 | Python | 这是一个官方的文件库"RFUAV:无人机飞行器检测和识别的基准数据集".代码包括使用一些FFT/STFT分析方法实现无人机检测和分类的两阶段... |
+| [kitoweeknd/RFUAV](https://github.com/kitoweeknd/RFUAV) | 350 | Python | 这是一个官方的文件库"RFUAV:无人机飞行器检测和识别的基准数据集".代码包括使用一些FFT/STFT分析方法实现无人机检测和分类的两阶段... |
 | [InsulatorData/InsulatorDataSet](https://github.com/InsulatorData/InsulatorDataSet) | 330 | - | 提供无人机捕获的正常绝缘图像和合成故障绝缘图像. |
 | [lindemer/baldr](https://github.com/lindemer/baldr) | 317 | Python | 四旋翼飞行模拟器 |
 | [Cosys-Lab/Cosys-AirSim](https://github.com/Cosys-Lab/Cosys-AirSim) | 312 | C++ | 机器人,汽车等等机器的模拟器, 基于Unreal Engine. 我们将其扩展到新的实现和传感器模式. |
@@ -435,7 +443,7 @@
 | [sijieaaa/UAVScenes](https://github.com/sijieaaa/UAVScenes) | 153 | Python | 无人机场景:无人机多模特数据集 |
 | [fdcl-gwu/uav_simulator](https://github.com/fdcl-gwu/uav_simulator) | 149 | Python | 无人机与几何控制的Python - Gazebo模拟环境 |
 | [jrgenerative/fixed-wing-sim](https://github.com/jrgenerative/fixed-wing-sim) | 147 | Matlab | 马特拉布实现,模拟固定翼无人机的非线性动态.包括使用旋网格方法实现的空气动力系数计算工具,并在切割的滑翔状态周围提取纵向和侧线性系统. |
-| [KumarRobotics/kr_mav_control](https://github.com/KumarRobotics/kr_mav_control) | 146 | C++ | 四旋翼控制代码 |
+| [KumarRobotics/kr_mav_control](https://github.com/KumarRobotics/kr_mav_control) | 147 | C++ | 四旋翼控制代码 |
 | [Intelligent-Quads/iq_sim](https://github.com/Intelligent-Quads/iq_sim) | 146 | CMake | 模拟机模拟包 |
 | [douthwja01/OpenMAS](https://github.com/douthwja01/OpenMAS) | 145 | MATLAB | 开放式MAS是一个基于Matlab的开源多代理模拟器,用于通过任意行为和动态定义的分散智能系统的模拟. |
 | [mit-fast/Blackbird-Dataset](https://github.com/mit-aera/Blackbird-Dataset) | 142 | Python |  |
@@ -490,9 +498,9 @@
 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | 65,127 | Java | 吉德拉是一个软件逆向工程 (SRE) 框架 |
 | [radareorg/radare2](https://github.com/radareorg/radare2) | 23,172 | C | 类似于UNIX的逆向工程框架和命令行工具集 |
 | [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | 20,480 | JavaScript | 移动安全框架 (MobSF) 是一个自动化,全合一的移动应用程序 (Android/iOS/Windows) 笔测试,恶意软件分析和安全评估... |
-| [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) | 14,576 | C++ | 机器人,机器人,机器人,机器人 |
+| [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) | 14,578 | C++ | 机器人,机器人,机器人,机器人 |
 | [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) | 14,465 | Python | 恶意访问点框架 |
-| [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) | 11,169 | C++ | 专用驾驶软件 |
+| [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) | 11,170 | C++ | 专用驾驶软件 |
 | [PX4/Firmware](https://github.com/PX4/PX4-Autopilot) | 11,169 | C++ | 专用驾驶软件 |
 | [hybridgroup/gobot](https://github.com/hybridgroup/gobot) | 9,382 | Go | 机器人,无人机和物联网 (IoT) 的Golang框架 |
 | [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) | 9,192 | Prolog | 基于火星上的探险器的自制6轮探险器! |
@@ -502,11 +510,11 @@
 | [amov-lab/Prometheus](https://github.com/amov-lab/Prometheus) | 3,056 | C++ | 开源软件用于自动驾驶无人机. |
 | [ZJU-FAST-Lab/Fast-Drone-250](https://github.com/ZJU-FAST-Lab/Fast-Drone-250) | 2,270 | C++ | 250毫米自动驾驶无人机的硬件和软件设计 |
 | [bitdump/BLHeli](https://github.com/bitdump/BLHeli) | 2,192 | Assembly | 蓝色无刷ESC固件 |
-| [mavlink/mavlink](https://github.com/mavlink/mavlink) | 2,181 | Python | 无人机的通讯图书馆. |
+| [mavlink/mavlink](https://github.com/mavlink/mavlink) | 2,182 | Python | 无人机的通讯图书馆. |
 | [GlasgowEmbedded/Glasgow](https://github.com/GlasgowEmbedded/glasgow) | 2,132 | Python | 苏格兰军刀用于电子设备 |
 | [greatscottgadgets/ubertooth](https://github.com/greatscottgadgets/ubertooth) | 2,080 | C | 优步牙的软件,固件和硬件设计 |
-| [dronekit/dronekit-python](https://github.com/dronekit/dronekit-python) | 1,865 | Python | 通过MAVLink与无人机通信的DroneKit-Python库. |
 | [diydrones/dronekit-python](https://github.com/dronekit/dronekit-python) | 1,865 | Python | 通过MAVLink与无人机通信的DroneKit-Python库. |
+| [dronekit/dronekit-python](https://github.com/dronekit/dronekit-python) | 1,864 | Python | 通过MAVLink与无人机通信的DroneKit-Python库. |
 | [paparazzi/paparazzi](https://github.com/paparazzi/paparazzi) | 1,659 | C | 帕帕拉齐是一个免费开源硬件和软件项目,用于无人驾驶 (空中) 车辆.这是主要的软件库. |
 | [P1sec/QCSuper](https://github.com/P1sec/QCSuper) | 1,564 | Python | 软件是与高通电话和调制解调器通信的工具,它允许捕获原始的2G/3G/4G无线电框架, |
 | [hybridgroup/artoo](https://github.com/hybridgroup/artoo) | 1,550 | Ruby | 机器人,无人机和物联网 (IoT) 的Ruby框架 |
@@ -524,7 +532,7 @@
 | [Firmament-Autopilot/FMT-Firmware](https://github.com/Firmament-Autopilot/FMT-Firmware) | 692 | C | 固件自动驾驶器嵌入式系统 |
 | [HKSSY/Drone-Hacking-Tool](https://github.com/HKSSY/Drone-Hacking-Tool) | 670 | Python | 无人机黑客工具是一个GUI工具,它与USBWiFi适配器和HackRF One一起用于黑客无人机. |
 | [sparkfun/OpenLog](https://github.com/sparkfun/OpenLog) | 591 | C++ | 开源硬件数据记录器 |
-| [mavlink-router/mavlink-router](https://github.com/mavlink-router/mavlink-router) | 566 | C++ | 路线和终端点之间的链接包 |
+| [mavlink-router/mavlink-router](https://github.com/mavlink-router/mavlink-router) | 567 | C++ | 路线和终端点之间的链接包 |
 | [Matthias84/awesome-flying-fpv](https://github.com/Matthias84/awesome-flying-fpv) | 564 | - | 编制的软件和硬件列表,用于远程控制直升机和飞机的构建 |
 | [mathiasvr/bluejay](https://github.com/mathiasvr/bluejay) | 547 | Assembly | :bird:用于控制多轮机无刷电机的数字ESC固件 |
 
@@ -611,4 +619,4 @@ git clone https://github.com/lllray/awesome-uav.git
 
 ---
 
-<p align="center"><sub>✨ 自动整理 · 2026-03-01 19:09:21</sub></p>
+<p align="center"><sub>✨ 自动整理 · 2026-03-02 00:41:14</sub></p>

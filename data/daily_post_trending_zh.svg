@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 718 718" width="718" height="718">
+<rect width="718" height="718" rx="10" fill="#ffffff"/>
+<text x="359.0" y="28" text-anchor="middle" fill="#000000" font-size="14" font-weight="bold">🔥 每日热门 (2026-03-02)</text>
+<rect x="24" y="48" width="670" height="32" fill="#f6f8fa" rx="4"/>
+<text x="44.0" y="70" text-anchor="middle" fill="#333333" font-size="11">#</text>
+<text x="174.0" y="70" text-anchor="middle" fill="#333333" font-size="11">项目</text>
+<text x="324.0" y="70" text-anchor="middle" fill="#333333" font-size="11">⭐</text>
+<text x="396.0" y="70" text-anchor="middle" fill="#333333" font-size="11">📈 日增</text>
+<text x="561.0" y="70" text-anchor="middle" fill="#333333" font-size="11">描述</text>
+<line x1="24" y1="80" x2="694" y2="80" stroke="#d0d7de" stroke-width="1"/>
+<text x="44.0" y="96" text-anchor="middle" fill="#000000" font-size="11">1</text>
+<text x="174.0" y="96" text-anchor="middle" fill="#000000" font-size="11">arpanghosh8453/open-dronelog</text>
+<text x="324.0" y="96" text-anchor="middle" fill="#000000" font-size="11">1,042</text>
+<text x="396.0" y="96" text-anchor="middle" fill="#000000" font-size="11">+5</text>
+<text x="561.0" y="96" text-anchor="middle" fill="#000000" font-size="11">无人机记录分析器:是一个高性能的通用</text>
+<text x="561.0" y="110" text-anchor="middle" fill="#000000" font-size="11">仪表板应用程序,用于在一个地方私下组</text>
+<line x1="24" y1="130" x2="694" y2="130" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="142" text-anchor="middle" fill="#000000" font-size="11">2</text>
+<text x="174.0" y="142" text-anchor="middle" fill="#000000" font-size="11">ArduPilot/ardupilot</text>
+<text x="324.0" y="142" text-anchor="middle" fill="#000000" font-size="11">14,578</text>
+<text x="396.0" y="142" text-anchor="middle" fill="#000000" font-size="11">+2</text>
+<text x="561.0" y="142" text-anchor="middle" fill="#000000" font-size="11">机器人,机器人,机器人,机器人</text>
+<line x1="24" y1="176" x2="694" y2="176" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="188" text-anchor="middle" fill="#000000" font-size="11">3</text>
+<text x="174.0" y="188" text-anchor="middle" fill="#000000" font-size="11">kousheekc/isaac_drone_racer</text>
+<text x="324.0" y="188" text-anchor="middle" fill="#000000" font-size="11">165</text>
+<text x="396.0" y="188" text-anchor="middle" fill="#000000" font-size="11">+2</text>
+<text x="561.0" y="188" text-anchor="middle" fill="#000000" font-size="11">艾萨克无人机赛车是高速度自动驾驶无人</text>
+<text x="561.0" y="202" text-anchor="middle" fill="#000000" font-size="11">机赛车的强化学习框架,</text>
+<line x1="24" y1="222" x2="694" y2="222" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="234" text-anchor="middle" fill="#000000" font-size="11">4</text>
+<text x="174.0" y="234" text-anchor="middle" fill="#000000" font-size="11">lis-epfl/vswarm</text>
+<text x="324.0" y="234" text-anchor="middle" fill="#000000" font-size="11">84</text>
+<text x="396.0" y="234" text-anchor="middle" fill="#000000" font-size="11">+2</text>
+<text x="561.0" y="234" text-anchor="middle" fill="#000000" font-size="11">基于视觉的无人机群体模拟和部署的RO</text>
+<text x="561.0" y="248" text-anchor="middle" fill="#000000" font-size="11">S包</text>
+<line x1="24" y1="268" x2="694" y2="268" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="280" text-anchor="middle" fill="#000000" font-size="11">5</text>
+<text x="174.0" y="280" text-anchor="middle" fill="#000000" font-size="11">aau-cns/Ardupilot_Multiag...</text>
+<text x="324.0" y="280" text-anchor="middle" fill="#000000" font-size="11">83</text>
+<text x="396.0" y="280" text-anchor="middle" fill="#000000" font-size="11">+2</text>
+<text x="561.0" y="280" text-anchor="middle" fill="#000000" font-size="11">使用 Ardupilot,ROS</text>
+<text x="561.0" y="294" text-anchor="middle" fill="#000000" font-size="11">2 和 Gazebo 的多代理无人机系</text>
+<line x1="24" y1="314" x2="694" y2="314" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="326" text-anchor="middle" fill="#000000" font-size="11">6</text>
+<text x="174.0" y="326" text-anchor="middle" fill="#000000" font-size="11">PX4/PX4-Autopilot</text>
+<text x="324.0" y="326" text-anchor="middle" fill="#000000" font-size="11">11,170</text>
+<text x="396.0" y="326" text-anchor="middle" fill="#000000" font-size="11">+1</text>
+<text x="561.0" y="326" text-anchor="middle" fill="#000000" font-size="11">专用驾驶软件</text>
+<line x1="24" y1="360" x2="694" y2="360" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="372" text-anchor="middle" fill="#000000" font-size="11">7</text>
+<text x="174.0" y="372" text-anchor="middle" fill="#000000" font-size="11">iNavFlight/inav</text>
+<text x="324.0" y="372" text-anchor="middle" fill="#000000" font-size="11">3,969</text>
+<text x="396.0" y="372" text-anchor="middle" fill="#000000" font-size="11">+1</text>
+<text x="561.0" y="372" text-anchor="middle" fill="#000000" font-size="11">航空航母:可导航的飞行控制软件</text>
+<line x1="24" y1="406" x2="694" y2="406" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="418" text-anchor="middle" fill="#000000" font-size="11">8</text>
+<text x="174.0" y="418" text-anchor="middle" fill="#000000" font-size="11">jyjblrd/Low-Cost-Mocap</text>
+<text x="324.0" y="418" text-anchor="middle" fill="#000000" font-size="11">2,260</text>
+<text x="396.0" y="418" text-anchor="middle" fill="#000000" font-size="11">+1</text>
+<text x="561.0" y="418" text-anchor="middle" fill="#000000" font-size="11">低成本的运动捕捉系统,用于室内尺度跟</text>
+<text x="561.0" y="432" text-anchor="middle" fill="#000000" font-size="11">踪</text>
+<line x1="24" y1="452" x2="694" y2="452" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="464" text-anchor="middle" fill="#000000" font-size="11">9</text>
+<text x="174.0" y="464" text-anchor="middle" fill="#000000" font-size="11">mavlink/mavlink</text>
+<text x="324.0" y="464" text-anchor="middle" fill="#000000" font-size="11">2,182</text>
+<text x="396.0" y="464" text-anchor="middle" fill="#000000" font-size="11">+1</text>
+<text x="561.0" y="464" text-anchor="middle" fill="#000000" font-size="11">无人机的通讯图书馆.</text>
+<line x1="24" y1="498" x2="694" y2="498" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="510" text-anchor="middle" fill="#000000" font-size="11">10</text>
+<text x="174.0" y="510" text-anchor="middle" fill="#000000" font-size="11">utiasDSL/gym-pybullet-drones</text>
+<text x="324.0" y="510" text-anchor="middle" fill="#000000" font-size="11">1,857</text>
+<text x="396.0" y="510" text-anchor="middle" fill="#000000" font-size="11">+1</text>
+<text x="561.0" y="510" text-anchor="middle" fill="#000000" font-size="11">PyBullet Gymnasium</text>
+<text x="561.0" y="524" text-anchor="middle" fill="#000000" font-size="11">环境,用于单机和多机器人增强学习四旋</text>
+<line x1="24" y1="544" x2="694" y2="544" stroke="#d0d7de" stroke-width="0.5"/>
+<a xlink:href="https://github.com/lllray/awesome-uav"><text x="694" y="708" text-anchor="end" fill="#57606a" font-size="10">github.com/lllray/awesome-uav</text></a>
+</svg>

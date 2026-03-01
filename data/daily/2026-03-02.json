@@ -1,0 +1,176 @@
+{
+  "date": "2026-03-02",
+  "total_skills": 2755,
+  "total_stars": 1836201,
+  "new_today": 0,
+  "top_gainers": [
+    {
+      "name": "arpanghosh8453/open-dronelog",
+      "stars": 1042,
+      "delta": 5,
+      "url": "https://github.com/arpanghosh8453/open-dronelog",
+      "description": "Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Built with Tauri v2, DuckDB, and React."
+    },
+    {
+      "name": "ArduPilot/ardupilot",
+      "stars": 14578,
+      "delta": 2,
+      "url": "https://github.com/ArduPilot/ardupilot",
+      "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source"
+    },
+    {
+      "name": "kousheekc/isaac_drone_racer",
+      "stars": 165,
+      "delta": 2,
+      "url": "https://github.com/kousheekc/isaac_drone_racer",
+      "description": "Isaac Drone Racer is a reinforcement learning framework for high speed autonomous drone racing, built on top of IsaacLab"
+    },
+    {
+      "name": "lis-epfl/vswarm",
+      "stars": 84,
+      "delta": 2,
+      "url": "https://github.com/lis-epfl/vswarm",
+      "description": "vswarm: A ROS package to simulate and deploy vision-based drone swarms"
+    },
+    {
+      "name": "aau-cns/Ardupilot_Multiagent_Simulation",
+      "stars": 83,
+      "delta": 2,
+      "url": "https://github.com/aau-cns/Ardupilot_Multiagent_Simulation",
+      "description": "Simulation environment for multiagent drone systems using Ardupilot, ROS 2, and Gazebo enabling users to spawn and control multiple drones, configure sensors, and test autonomous behaviors in a reproducible and extensible setup."
+    },
+    {
+      "name": "PX4/PX4-Autopilot",
+      "stars": 11170,
+      "delta": 1,
+      "url": "https://github.com/PX4/PX4-Autopilot",
+      "description": "PX4 Autopilot Software"
+    },
+    {
+      "name": "iNavFlight/inav",
+      "stars": 3969,
+      "delta": 1,
+      "url": "https://github.com/iNavFlight/inav",
+      "description": "INAV: Navigation-enabled flight control software"
+    },
+    {
+      "name": "jyjblrd/Low-Cost-Mocap",
+      "stars": 2260,
+      "delta": 1,
+      "url": "https://github.com/jyjblrd/Low-Cost-Mocap",
+      "description": "Low cost motion capture system for room scale tracking"
+    },
+    {
+      "name": "mavlink/mavlink",
+      "stars": 2182,
+      "delta": 1,
+      "url": "https://github.com/mavlink/mavlink",
+      "description": "Marshalling / communication library for drones."
+    },
+    {
+      "name": "utiasDSL/gym-pybullet-drones",
+      "stars": 1857,
+      "delta": 1,
+      "url": "https://github.com/utiasDSL/gym-pybullet-drones",
+      "description": "PyBullet Gymnasium environments for single and multi-agent reinforcement learning of quadcopter control"
+    },
+    {
+      "name": "mit-acl/faster",
+      "stars": 1196,
+      "delta": 1,
+      "url": "https://github.com/mit-acl/faster",
+      "description": "3D Trajectory Planner in Unknown Environments"
+    },
+    {
+      "name": "rtlopez/esp-fc",
+      "stars": 574,
+      "delta": 1,
+      "url": "https://github.com/rtlopez/esp-fc",
+      "description": "Flight controller software for hobbyist - build your own flight controller."
+    },
+    {
+      "name": "mavlink-router/mavlink-router",
+      "stars": 567,
+      "delta": 1,
+      "url": "https://github.com/mavlink-router/mavlink-router",
+      "description": "Route mavlink packets between endpoints"
+    },
+    {
+      "name": "young-how/DQN-based-UAV-3D_path_planer",
+      "stars": 529,
+      "delta": 1,
+      "url": "https://github.com/young-how/DQN-based-UAV-3D_path_planer",
+      "description": "RLGF is a general training framework suitable for UAV deep reinforcement learning tasks. And integrates multiple mainstream deep reinforcement learning algorithms(SAC, DQN, DDQN, PPO, Dueling DQN, DDPG)."
+    },
+    {
+      "name": "OpenHUTB/hutb",
+      "stars": 441,
+      "delta": 1,
+      "url": "https://github.com/OpenHUTB/hutb",
+      "description": "人车模拟器"
+    },
+    {
+      "name": "qqqlab/madflight",
+      "stars": 387,
+      "delta": 1,
+      "url": "https://github.com/qqqlab/madflight",
+      "description": "Flight Controller for ESP32 / Raspberry Pico / STM32"
+    },
+    {
+      "name": "kitoweeknd/RFUAV",
+      "stars": 350,
+      "delta": 1,
+      "url": "https://github.com/kitoweeknd/RFUAV",
+      "description": "This is official repository of our paper \"RFUAV: A Benchmark Dataset for Unmanned Aerial Vehicle Detection and Identification\".  Codes include a two stage model to achieve drone detection and classification using some FFT/STFT analytical method. The Raw data will be free to use after our paper is accept. Star us!!!!, if you think this is useful♥"
+    },
+    {
+      "name": "aerostack2/aerostack2",
+      "stars": 304,
+      "delta": 1,
+      "url": "https://github.com/aerostack2/aerostack2",
+      "description": "Aerostack2 is a ROS 2 framework developed to create autonomous multi-aerial-robots systems in an easy and powerful way."
+    },
+    {
+      "name": "opendroneid/opendroneid-core-c",
+      "stars": 293,
+      "delta": 1,
+      "url": "https://github.com/opendroneid/opendroneid-core-c",
+      "description": "Open Drone ID Core C Library"
+    },
+    {
+      "name": "KumarRobotics/kr_mav_control",
+      "stars": 147,
+      "delta": 1,
+      "url": "https://github.com/KumarRobotics/kr_mav_control",
+      "description": "Code for quadrotor control"
+    },
+    {
+      "name": "sergiovirahonda/cortex",
+      "stars": 108,
+      "delta": 1,
+      "url": "https://github.com/sergiovirahonda/cortex",
+      "description": "ESP32-S3 flight controller for DIY quadcopters: real-time PID stabilization, DShot ESCs, nRF24 radio, telemetry downlink. Pairs with Synapse TX."
+    },
+    {
+      "name": "TIERS/uwb-drone-dataset",
+      "stars": 95,
+      "delta": 1,
+      "url": "https://github.com/TIERS/uwb-drone-dataset",
+      "description": "Ultra-wideband (UWB) Localization for Autonomous UAV Flight in GNSS-denied Environments"
+    },
+    {
+      "name": "nicolaloi/Reinforcement-Learning-Isaac-Lab-Projects",
+      "stars": 36,
+      "delta": 1,
+      "url": "https://github.com/nicolaloi/Reinforcement-Learning-Isaac-Lab-Projects",
+      "description": "Multiple experimental environments for Isaac Lab."
+    },
+    {
+      "name": "TheNoobInventor/pi-pico-drone",
+      "stars": 25,
+      "delta": 1,
+      "url": "https://github.com/TheNoobInventor/pi-pico-drone",
+      "description": "A micro drone is made using the Raspberry Pi Pico W. It is fitted with the MPU6050 IMU module and BMP280 barometric sensor. The drone will be controlled using TinyMPC and employ a Micro-ROS client on FreeRTOS."
+    }
+  ]
+}

@@ -1,9 +1,9 @@
-# Daily Report 2026-03-02
-- Repo: Awesome UAV
-- New today: 0 | Total: 2755 | Stars: 1,836,201
-- Link: https://github.com/lllray/awesome-uav
+# 每日报告 2026-03-02
+- 仓库: Awesome UAV
+- 今日新增: 0 | 总数: 2755 | Stars: 1,836,201
+- 链接: https://github.com/lllray/awesome-uav
 
-## Top 5 Trending
+## 热门 Top 5
 1. [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) +5⭐ — Drone Log analyzer: A high-performance universal dashboard application for organ
 2. [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) +2⭐ — ArduPlane, ArduCopter, ArduRover, ArduSub source
 3. [kousheekc/isaac_drone_racer](https://github.com/kousheekc/isaac_drone_racer) +2⭐ — Isaac Drone Racer is a reinforcement learning framework for high speed autonomou
