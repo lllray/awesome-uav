@@ -37,26 +37,18 @@
 
 | # | Project | ⭐ | 📈 Gain | Description |
 |:-:|---------|---:|-------:|-------------|
-| 1 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 441,502 | 🆕 | 😎 Awesome lists about all kinds of interesting topics |
-| 2 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 337,503 | 🆕 | A complete computer science study plan to become a software  |
-| 3 | [opencv/opencv](https://github.com/opencv/opencv) | 86,357 | 🆕 | Open Source Computer Vision Library |
-| 4 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | 65,127 | 🆕 | Ghidra is a software reverse engineering (SRE) framework |
-| 5 | [ultralytics/yolov5](https://github.com/ultralytics/yolov5) | 56,888 | 🆕 | YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite |
-| 6 | [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) | 23,964 | 🆕 | A tool for reverse engineering Android apk files |
-| 7 | [radareorg/radare2](https://github.com/radareorg/radare2) | 23,172 | 🆕 | UNIX-like reverse engineering framework and command-line too |
-| 8 | [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet) | 22,194 | 🆕 | YOLOv4 / Scaled-YOLOv4 / YOLO - Neural Networks for Object D |
-| 9 | [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | 20,480 | 🆕 | Mobile Security Framework (MobSF) is an automated, all-in-on |
-| 10 | [bettercap/bettercap](https://github.com/bettercap/bettercap) | 18,880 | 🆕 | The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and |
-| 11 | [microsoft/AirSim](https://github.com/microsoft/AirSim) | 17,970 | 🆕 | Open source simulator for autonomous vehicles built on Unrea |
-| 12 | [Microsoft/AirSim](https://github.com/microsoft/AirSim) | 17,970 | 🆕 | Open source simulator for autonomous vehicles built on Unrea |
-| 13 | [pytorch/vision](https://github.com/pytorch/vision) | 17,537 | 🆕 | Datasets, Transforms and Models specific to Computer Vision |
-| 14 | [kubernetes/charts](https://github.com/helm/charts) | 15,439 | 🆕 | ⚠️(OBSOLETE) Curated applications for Kubernetes |
-| 15 | [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) | 14,576 | 🆕 | ArduPlane, ArduCopter, ArduRover, ArduSub source |
-| 16 | [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) | 14,465 | 🆕 | The Rogue Access Point Framework |
-| 17 | [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) | 13,621 | 🆕 | Firmware Analysis Tool |
-| 18 | [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) | 13,071 | 🆕 | Tools to work with android .dex and java .class files |
-| 19 | [DLR-RM/stable-baselines3](https://github.com/DLR-RM/stable-baselines3) | 12,798 | 🆕 | PyTorch version of Stable Baselines, reliable implementation |
-| 20 | [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) | 11,169 | 🆕 | PX4 Autopilot Software |
+| 1 | [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) | 1,037 | +1 | Drone Log analyzer: A high-performance universal dashboard a |
+| 2 | [JacopoPan/aerial-autonomy-stack](https://github.com/JacopoPan/aerial-autonomy-stack) | 333 | +1 | An open-source stack to simulate and deploy perception-based |
+| 3 | [mahran-sayed/awesome-aerospace-engineering](https://github.com/mahran-sayed/awesome-aerospace-engineering) | 320 | +1 | A list of aerospace engineering learning resources 🚀✈️ |
+| 4 | [I-M-Robotics-Lab/STM32-Quadcopter](https://github.com/I-M-Robotics-Lab/STM32-Quadcopter) | 28 | +1 | Quadcopter design based on STM32F411CEU Blackpill flight con |
+| 5 | [bird-sanctuary/bluejay](https://github.com/bird-sanctuary/bluejay) | 454 | +1 | :bird: Digital ESC firmware for controlling brushless motors |
+| 6 | [PX4/PX4-user_guide](https://github.com/PX4/PX4-user_guide) | 417 | +1 | PX4 User Guide Sources (ARCHIVED) |
+| 7 | [PX4/PX4-Devguide](https://github.com/PX4/PX4-Devguide) | 209 | +1 | PX4 Devguide GitBook |
+| 8 | [robustini/eXploraVTOL](https://github.com/robustini/eXploraVTOL) | 134 | +1 | eXplora Tailsitter VTOL |
+| 9 | [ArduPilot/node-mavlink](https://github.com/ArduPilot/node-mavlink) | 95 | +1 | This project is providing native TypeScript bindings and too |
+| 10 | [rlew631/ObjectTrackingDrone](https://github.com/rlew631/ObjectTrackingDrone) | 47 | +1 | Drone w/ camera gimbal controlled by Pixhawk and Raspberry P |
+| 11 | [Insta360-Research-Team/AirSim360](https://github.com/Insta360-Research-Team/AirSim360) | 87 | +1 | Official implementation of "AirSim360: A Panoramic Simulatio |
+| 12 | [rahulsarchive/FOS_UAV](https://github.com/rahulsarchive/FOS_UAV) | 53 | +1 | A DIY Open-source Fixed-wing aerial reconnaissance and mappi |
 
 ---
 
@@ -119,8 +111,8 @@
 | [emuflight/EmuFlight](https://github.com/emuflight/EmuFlight) | 488 | C | EmuFlight is flight controller software (firmware) used to fly multi-r |
 | [dji-sdk/Payload-SDK](https://github.com/dji-sdk/Payload-SDK) | 463 | C | DJI Payload SDK Official Repository |
 | [ShikOfTheRa/scarab-osd](https://github.com/ShikOfTheRa/scarab-osd) | 445 | C | MWOSD - UAV HUD |
+| [PX4/PX4-user_guide](https://github.com/PX4/PX4-user_guide) | 417 | Jupyter Notebook | PX4 User Guide Sources (ARCHIVED) |
 | [Plasmatree/PID-Analyzer](https://github.com/Plasmatree/PID-Analyzer) | 417 | Python |  |
-| [uavpal/disco4g](https://github.com/uavpal/disco4g) | 416 | Shell | 4G/LTE softmod for the Parrot Disco |
 
 ---
 
@@ -238,7 +230,7 @@
 | [xuannianz/EfficientDet](https://github.com/xuannianz/EfficientDet) | 1,451 | Python | EfficientDet (Scalable and Efficient Object Detection)  implementation |
 | [satellite-image-deep-learning/datasets](https://github.com/satellite-image-deep-learning/datasets) | 1,090 | - | Datasets for deep learning with satellite & aerial imagery |
 | [WangLibo1995/GeoSeg](https://github.com/WangLibo1995/GeoSeg) | 1,042 | Python | UNetFormer: A UNet-like transformer for efficient semantic segmentatio |
-| [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) | 1,036 | TypeScript | Drone Log analyzer: A high-performance universal dashboard application |
+| [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) | 1,037 | TypeScript | Drone Log analyzer: A high-performance universal dashboard application |
 | [SysCV/sam-pt](https://github.com/SysCV/sam-pt) | 1,035 | Python | SAM-PT: Extending SAM to zero-shot video segmentation with point-based |
 | [rodizio1/EZ-WifiBroadcast](https://github.com/rodizio1/EZ-WifiBroadcast) | 892 | C | Affordable Digital HD Video Transmission made easy! |
 | [chrieke/awesome-geospatial-companies](https://github.com/chrieke/awesome-geospatial-companies) | 838 | Python | :globe_with_meridians: List & Map of 700+ companies for geospatial job |
@@ -346,7 +338,7 @@
 | [JORKER1755/PathPlanning](https://github.com/JORKER1755/PathPlanning) | 356 | Python | Deep Reinforcement Learning based Adaptive Real-time Path Planning for |
 | [aqeelanwar/PEDRA](https://github.com/aqeelanwar/PEDRA) | 322 | Python | Programmable Engine for Drone Reinforcement Learning Applications |
 | [blaze33/droneWorld](https://github.com/blaze33/droneWorld) | 321 | JavaScript | droneWorld: a 3D world map and a three.js playground |
-| [mahran-sayed/awesome-aerospace-engineering](https://github.com/mahran-sayed/awesome-aerospace-engineering) | 319 | - | A list of aerospace engineering learning resources 🚀✈️ |
+| [mahran-sayed/awesome-aerospace-engineering](https://github.com/mahran-sayed/awesome-aerospace-engineering) | 320 | - | A list of aerospace engineering learning resources 🚀✈️ |
 | [PaddlePaddle/MetaGym](https://github.com/PaddlePaddle/MetaGym) | 299 | Python | Collection of Reinforcement Learning / Meta Reinforcement Learning Env |
 | [Zihao-Felix-Zhou/UavNetSim-v1](https://github.com/Zihao-Felix-Zhou/UavNetSim-v1) | 293 | Python | UavNetSim-v1: A Python-based simulation platform for designing and tes |
 | [open-airlab/UNav-Sim](https://github.com/open-airlab/UNav-Sim) | 288 | C++ | Visually Realistic Underwater Robotics Simulator UNav-Sim |
@@ -467,7 +459,7 @@
 | [Synacktiv-contrib/Modmobmap](https://github.com/Synacktiv-contrib/Modmobmap) | 108 | Python | Map 2G/3G/4G and more cellular networks in real live with a simple sma |
 | [mkrupczak3/OpenAthena](https://github.com/Theta-Limited/OpenAthena-Legacy-Python) | 103 | Python | OpenAthena allows common drones to spot precise geodetic locations |
 | [rahulsarchive/4AxisFoamCutter](https://github.com/rahulsarchive/4AxisFoamCutter) | 95 | nesC | An open-source DIY 4 Axis Foam cutter using Ramps + Arduino for cuttin |
-| [rahulsarchive/FOS_UAV](https://github.com/rahulsarchive/FOS_UAV) | 52 | - | A DIY Open-source Fixed-wing aerial reconnaissance and mapping platfor |
+| [rahulsarchive/FOS_UAV](https://github.com/rahulsarchive/FOS_UAV) | 53 | - | A DIY Open-source Fixed-wing aerial reconnaissance and mapping platfor |
 | [tomsong00/Matlab--Genetic-Algorithm-for-UAV-maritime-search-and-rescue-SAR-coverage-path-planning-CPP-problem](https://github.com/tomsong00/Matlab--Genetic-Algorithm-for-UAV-maritime-search-and-rescue-SAR-coverage-path-planning-CPP-problem) | 48 | MATLAB | genetic algorithm for UAV maritime search and rescue (SAR)  coverage p |
 | [nazmulb/drone.io](https://github.com/nazmulb/drone.io) | 31 | - | Drone CI - Continuous Delivery system built on container technology |
 | [kristo-godari/drone-delivery-routing-algorithm](https://github.com/kristo-godari/drone-delivery-routing-algorithm) | 26 | Java | Given a fleet of drones, a list of customer orders, and availability o |
@@ -611,4 +603,4 @@ Pull requests welcome!
 
 ---
 
-<p align="center"><sub>✨ Auto-curated · 2026-03-01 17:00:14</sub></p>
+<p align="center"><sub>✨ Auto-curated · 2026-03-01 19:09:21</sub></p>

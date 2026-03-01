@@ -1,7 +1,92 @@
 {
   "date": "2026-03-01",
   "total_skills": 2755,
-  "total_stars": 1836159,
+  "total_stars": 1836170,
   "new_today": 2755,
-  "top_gainers": []
+  "top_gainers": [
+    {
+      "name": "arpanghosh8453/open-dronelog",
+      "stars": 1037,
+      "delta": 1,
+      "url": "https://github.com/arpanghosh8453/open-dronelog",
+      "description": "Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Built with Tauri v2, DuckDB, and React."
+    },
+    {
+      "name": "JacopoPan/aerial-autonomy-stack",
+      "stars": 333,
+      "delta": 1,
+      "url": "https://github.com/JacopoPan/aerial-autonomy-stack",
+      "description": "An open-source stack to simulate and deploy perception-based PX4/ArduPilot drones using ROS2, YOLO, LiDAR, and NVIDIA Jetson"
+    },
+    {
+      "name": "mahran-sayed/awesome-aerospace-engineering",
+      "stars": 320,
+      "delta": 1,
+      "url": "https://github.com/mahran-sayed/awesome-aerospace-engineering",
+      "description": "A list of aerospace engineering learning resources 🚀✈️"
+    },
+    {
+      "name": "I-M-Robotics-Lab/STM32-Quadcopter",
+      "stars": 28,
+      "delta": 1,
+      "url": "https://github.com/I-M-Robotics-Lab/STM32-Quadcopter",
+      "description": "Quadcopter design based on STM32F411CEU Blackpill flight controller. Compatible with INAV 6.0 firmware."
+    },
+    {
+      "name": "bird-sanctuary/bluejay",
+      "stars": 454,
+      "delta": 1,
+      "url": "https://github.com/bird-sanctuary/bluejay",
+      "description": ":bird: Digital ESC firmware for controlling brushless motors in multirotors"
+    },
+    {
+      "name": "PX4/PX4-user_guide",
+      "stars": 417,
+      "delta": 1,
+      "url": "https://github.com/PX4/PX4-user_guide",
+      "description": "PX4 User Guide Sources (ARCHIVED)"
+    },
+    {
+      "name": "PX4/PX4-Devguide",
+      "stars": 209,
+      "delta": 1,
+      "url": "https://github.com/PX4/PX4-Devguide",
+      "description": "PX4 Devguide GitBook"
+    },
+    {
+      "name": "robustini/eXploraVTOL",
+      "stars": 134,
+      "delta": 1,
+      "url": "https://github.com/robustini/eXploraVTOL",
+      "description": "eXplora Tailsitter VTOL"
+    },
+    {
+      "name": "ArduPilot/node-mavlink",
+      "stars": 95,
+      "delta": 1,
+      "url": "https://github.com/ArduPilot/node-mavlink",
+      "description": "This project is providing native TypeScript bindings and tools for sending and receiving MavLink messages over a verity of medium"
+    },
+    {
+      "name": "rlew631/ObjectTrackingDrone",
+      "stars": 47,
+      "delta": 1,
+      "url": "https://github.com/rlew631/ObjectTrackingDrone",
+      "description": "Drone w/ camera gimbal controlled by Pixhawk and Raspberry Pi running OpenCV"
+    },
+    {
+      "name": "Insta360-Research-Team/AirSim360",
+      "stars": 87,
+      "delta": 1,
+      "url": "https://github.com/Insta360-Research-Team/AirSim360",
+      "description": "Official implementation of \"AirSim360: A Panoramic Simulation Platform within Drone View\""
+    },
+    {
+      "name": "rahulsarchive/FOS_UAV",
+      "stars": 53,
+      "delta": 1,
+      "url": "https://github.com/rahulsarchive/FOS_UAV",
+      "description": "A DIY Open-source Fixed-wing aerial reconnaissance and mapping platform"
+    }
+  ]
 }
