@@ -57157,26 +57157,26 @@
     }
   },
   "translations": {
-    "Marshalling / communication library for drones.": "无人机编队/通信库。",
-    "Route mavlink packets between endpoints": "在端点之间路由Mavlink数据包。",
-    "Isaac Drone Racer is a reinforcement learning framework for high speed autonomous drone racing, built on top of IsaacLab": "Isaac Drone Racer是一个基于IsaacLab构建的高速自主无人机竞速强化学习框架。",
-    "Low cost motion capture system for room scale tracking": "低成本动作捕捉系统，用于房间尺度追踪。",
-    "vswarm: A ROS package to simulate and deploy vision-based drone swarms": "vswarm：一个用于模拟和部署基于视觉的无人机群的ROS包。",
-    "Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Built with Tauri v2, DuckDB, and React.": "无人机日志分析器：一个高性能通用仪表盘应用，用于在本地一站式整理和分析DJI/Litchi飞行日志。基于Tauri v2、DuckDB和React构建。",
-    "3D Trajectory Planner in Unknown Environments": "未知环境中的3D轨迹规划器。",
-    "Aerostack2 is a ROS 2 framework developed to create autonomous multi-aerial-robots systems in an easy and powerful way.": "Aerostack2是一个ROS 2框架，旨在以简单而强大的方式创建自主多空中机器人系统。",
-    "Simulation environment for multiagent drone systems using Ardupilot, ROS 2, and Gazebo enabling users to spawn and control multiple drones, configure sensors, and test autonomous behaviors in a reproducible and extensible setup.": "基于Ardupilot、ROS 2和Gazebo的多智能体无人机系统仿真环境，允许用户生成和控制多架无人机、配置传感器，并在可重复且可扩展的设置中测试自主行为。",
-    "人车模拟器": "人车模拟器。",
-    "INAV: Navigation-enabled flight control software": "INAV：具备导航功能的飞行控制软件。",
+    "INAV: Navigation-enabled flight control software": "INAV: 具备导航功能的飞行控制软件",
+    "Flight Controller for ESP32 / Raspberry Pico / STM32": "适用于ESP32 / Raspberry Pico / STM32的飞行控制器",
+    "ESP32-S3 flight controller for DIY quadcopters: real-time PID stabilization, DShot ESCs, nRF24 radio, telemetry downlink. Pairs with Synapse TX.": "用于DIY四轴飞行器的ESP32-S3飞行控制器：实时PID稳定、DShot电调、nRF24无线电、遥测下行链路。与Synapse TX配对使用。",
+    "This is official repository of our paper \"RFUAV: A Benchmark Dataset for Unmanned Aerial Vehicle Detection and Identification\".  Codes include a two stage model to achieve drone detection and classification using some FFT/STFT analytical method. The Raw data will be free to use after our paper is accept. Star us!!!!, if you think this is useful♥": "这是我们论文《RFUAV：无人机检测与识别基准数据集》的官方仓库。代码包含一个两阶段模型，采用FFT/STFT分析方法实现无人机检测与分类。原始数据将在论文被接受后免费开放使用。如果觉得有用，请给我们点星♥",
+    "Aerostack2 is a ROS 2 framework developed to create autonomous multi-aerial-robots systems in an easy and powerful way.": "Aerostack2是一个ROS 2框架，旨在以简单而强大的方式创建自主多飞行机器人系统。",
+    "Code for quadrotor control": "四旋翼飞行器控制代码",
+    "人车模拟器": "人车模拟器",
+    "Marshalling / communication library for drones.": "无人机编队/通信库",
     "RLGF is a general training framework suitable for UAV deep reinforcement learning tasks. And integrates multiple mainstream deep reinforcement learning algorithms(SAC, DQN, DDQN, PPO, Dueling DQN, DDPG).": "RLGF是一个适用于无人机深度强化学习任务的通用训练框架，集成了多种主流深度强化学习算法（SAC、DQN、DDQN、PPO、Dueling DQN、DDPG）。",
-    "PX4 Autopilot Software": "PX4 Autopilot Software",
-    "Flight Controller for ESP32 / Raspberry Pico / STM32": "ESP32 / Raspberry Pico / STM32 飞行控制器",
-    "This is official repository of our paper \"RFUAV: A Benchmark Dataset for Unmanned Aerial Vehicle Detection and Identification\".  Codes include a two stage model to achieve drone detection and classification using some FFT/STFT analytical method. The Raw data will be free to use after our paper is accept. Star us!!!!, if you think this is useful♥": "这是我们论文《RFUAV：无人机检测与识别基准数据集》的官方仓库。代码包含一个两阶段模型，使用FFT/STFT分析方法实现无人机检测与分类。论文被接受后，原始数据将免费开放使用。如果觉得有用，请给我们点星！♥",
+    "3D Trajectory Planner in Unknown Environments": "未知环境中的3D轨迹规划器",
+    "ArduPlane, ArduCopter, ArduRover, ArduSub source": "ArduPlane、ArduCopter、ArduRover、ArduSub源代码",
+    "Route mavlink packets between endpoints": "在端点之间路由Mavlink数据包",
+    "PX4 Autopilot Software": "PX4自动驾驶软件",
+    "PyBullet Gymnasium environments for single and multi-agent reinforcement learning of quadcopter control": "用于四旋翼飞行器控制的单智能体与多智能体强化学习的PyBullet Gymnasium环境",
     "Flight controller software for hobbyist - build your own flight controller.": "面向爱好者的飞行控制器软件——构建你自己的飞行控制器。",
-    "PyBullet Gymnasium environments for single and multi-agent reinforcement learning of quadcopter control": "用于四旋翼控制的单智能体与多智能体强化学习的PyBullet Gymnasium环境",
-    "Code for quadrotor control": "四旋翼控制代码",
-    "ESP32-S3 flight controller for DIY quadcopters: real-time PID stabilization, DShot ESCs, nRF24 radio, telemetry downlink. Pairs with Synapse TX.": "用于DIY四旋翼的ESP32-S3飞行控制器：实时PID稳定、DShot电调、nRF24无线电、遥测下行链路。与Synapse TX配对使用。",
-    "ArduPlane, ArduCopter, ArduRover, ArduSub source": "ArduPlane、ArduCopter、ArduRover、ArduSub源代码"
+    "Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Built with Tauri v2, DuckDB, and React.": "无人机日志分析器：一款高性能通用仪表盘应用，用于在本地一站式整理和分析DJI/Litchi飞行日志。基于Tauri v2、DuckDB和React构建。",
+    "Isaac Drone Racer is a reinforcement learning framework for high speed autonomous drone racing, built on top of IsaacLab": "Isaac Drone Racer是一个基于IsaacLab构建的高速自主无人机竞速强化学习框架。",
+    "vswarm: A ROS package to simulate and deploy vision-based drone swarms": "vswarm：用于模拟和部署基于视觉的无人机集群的ROS软件包。",
+    "Low cost motion capture system for room scale tracking": "适用于房间尺度追踪的低成本动作捕捉系统。",
+    "Simulation environment for multiagent drone systems using Ardupilot, ROS 2, and Gazebo enabling users to spawn and control multiple drones, configure sensors, and test autonomous behaviors in a reproducible and extensible setup.": "基于Ardupilot、ROS 2和Gazebo的多智能体无人机系统仿真环境，支持用户生成并控制多架无人机、配置传感器，并在可复现且可扩展的平台上测试自主行为。"
   },
   "daily": {
     "2026-03-01": {
@@ -57451,7 +57451,7 @@
   "meta": {
     "created": "2026-03-01 17:00:14",
     "total_collected": 2755,
-    "last_updated": "2026-03-02 20:49:10"
+    "last_updated": "2026-03-02 20:57:07"
   },
   "translations_en": {
     "人车模拟器": "Human-Vehicle Simulator"

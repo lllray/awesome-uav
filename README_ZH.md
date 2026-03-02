@@ -29,26 +29,26 @@
 
 | # | 项目 | ⭐ | 📈 周增 | 描述 |
 |:-:|------|---:|-------:|------|
-| 1 | [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) | 1,042 | +5 | 无人机日志分析器：一个高性能通用仪表盘应用，用于在本地一站式整理和分析DJI/Litchi飞行日志。... |
+| 1 | [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) | 1,042 | +5 | 无人机日志分析器：一款高性能通用仪表盘应用，用于在本地一站式整理和分析DJI/Litchi飞行日志。... |
 | 2 | [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) | 14,578 | +2 | ArduPlane、ArduCopter、ArduRover、ArduSub源代码 |
 | 3 | [kousheekc/isaac_drone_racer](https://github.com/kousheekc/isaac_drone_racer) | 165 | +2 | Isaac Drone Racer是一个基于IsaacLab构建的高速自主无人机竞速强化学习框架。 |
-| 4 | [lis-epfl/vswarm](https://github.com/lis-epfl/vswarm) | 84 | +2 | vswarm：一个用于模拟和部署基于视觉的无人机群的ROS包。 |
-| 5 | [aau-cns/Ardupilot_Multiagent_Simulation](https://github.com/aau-cns/Ardupilot_Multiagent_Simulation) | 83 | +2 | 基于Ardupilot、ROS 2和Gazebo的多智能体无人机系统仿真环境，允许用户生成和控制多架... |
-| 6 | [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) | 11,170 | +1 | PX4 Autopilot Software |
-| 7 | [iNavFlight/inav](https://github.com/iNavFlight/inav) | 3,969 | +1 | INAV：具备导航功能的飞行控制软件。 |
-| 8 | [jyjblrd/Low-Cost-Mocap](https://github.com/jyjblrd/Low-Cost-Mocap) | 2,260 | +1 | 低成本动作捕捉系统，用于房间尺度追踪。 |
-| 9 | [mavlink/mavlink](https://github.com/mavlink/mavlink) | 2,182 | +1 | 无人机编队/通信库。 |
-| 10 | [utiasDSL/gym-pybullet-drones](https://github.com/utiasDSL/gym-pybullet-drones) | 1,857 | +1 | 用于四旋翼控制的单智能体与多智能体强化学习的PyBullet Gymnasium环境 |
-| 11 | [mit-acl/faster](https://github.com/mit-acl/faster) | 1,196 | +1 | 未知环境中的3D轨迹规划器。 |
+| 4 | [lis-epfl/vswarm](https://github.com/lis-epfl/vswarm) | 84 | +2 | vswarm：用于模拟和部署基于视觉的无人机集群的ROS软件包。 |
+| 5 | [aau-cns/Ardupilot_Multiagent_Simulation](https://github.com/aau-cns/Ardupilot_Multiagent_Simulation) | 83 | +2 | 基于Ardupilot、ROS 2和Gazebo的多智能体无人机系统仿真环境，支持用户生成并控制多架... |
+| 6 | [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) | 11,170 | +1 | PX4自动驾驶软件 |
+| 7 | [iNavFlight/inav](https://github.com/iNavFlight/inav) | 3,969 | +1 | INAV: 具备导航功能的飞行控制软件 |
+| 8 | [jyjblrd/Low-Cost-Mocap](https://github.com/jyjblrd/Low-Cost-Mocap) | 2,260 | +1 | 适用于房间尺度追踪的低成本动作捕捉系统。 |
+| 9 | [mavlink/mavlink](https://github.com/mavlink/mavlink) | 2,182 | +1 | 无人机编队/通信库 |
+| 10 | [utiasDSL/gym-pybullet-drones](https://github.com/utiasDSL/gym-pybullet-drones) | 1,857 | +1 | 用于四旋翼飞行器控制的单智能体与多智能体强化学习的PyBullet Gymnasium环境 |
+| 11 | [mit-acl/faster](https://github.com/mit-acl/faster) | 1,196 | +1 | 未知环境中的3D轨迹规划器 |
 | 12 | [rtlopez/esp-fc](https://github.com/rtlopez/esp-fc) | 574 | +1 | 面向爱好者的飞行控制器软件——构建你自己的飞行控制器。 |
-| 13 | [mavlink-router/mavlink-router](https://github.com/mavlink-router/mavlink-router) | 567 | +1 | 在端点之间路由Mavlink数据包。 |
+| 13 | [mavlink-router/mavlink-router](https://github.com/mavlink-router/mavlink-router) | 567 | +1 | 在端点之间路由Mavlink数据包 |
 | 14 | [young-how/DQN-based-UAV-3D_path_planer](https://github.com/young-how/DQN-based-UAV-3D_path_planer) | 529 | +1 | RLGF是一个适用于无人机深度强化学习任务的通用训练框架，集成了多种主流深度强化学习算法（SAC、D... |
-| 15 | [OpenHUTB/hutb](https://github.com/OpenHUTB/hutb) | 441 | +1 | 人车模拟器。 |
-| 16 | [qqqlab/madflight](https://github.com/qqqlab/madflight) | 387 | +1 | ESP32 / Raspberry Pico / STM32 飞行控制器 |
-| 17 | [kitoweeknd/RFUAV](https://github.com/kitoweeknd/RFUAV) | 350 | +1 | 这是我们论文《RFUAV：无人机检测与识别基准数据集》的官方仓库。代码包含一个两阶段模型，使用FFT... |
-| 18 | [aerostack2/aerostack2](https://github.com/aerostack2/aerostack2) | 304 | +1 | Aerostack2是一个ROS 2框架，旨在以简单而强大的方式创建自主多空中机器人系统。 |
-| 19 | [KumarRobotics/kr_mav_control](https://github.com/KumarRobotics/kr_mav_control) | 147 | +1 | 四旋翼控制代码 |
-| 20 | [sergiovirahonda/cortex](https://github.com/sergiovirahonda/cortex) | 108 | +1 | 用于DIY四旋翼的ESP32-S3飞行控制器：实时PID稳定、DShot电调、nRF24无线电、遥测... |
+| 15 | [OpenHUTB/hutb](https://github.com/OpenHUTB/hutb) | 441 | +1 | 人车模拟器 |
+| 16 | [qqqlab/madflight](https://github.com/qqqlab/madflight) | 387 | +1 | 适用于ESP32 / Raspberry Pico / STM32的飞行控制器 |
+| 17 | [kitoweeknd/RFUAV](https://github.com/kitoweeknd/RFUAV) | 350 | +1 | 这是我们论文《RFUAV：无人机检测与识别基准数据集》的官方仓库。代码包含一个两阶段模型，采用FFT... |
+| 18 | [aerostack2/aerostack2](https://github.com/aerostack2/aerostack2) | 304 | +1 | Aerostack2是一个ROS 2框架，旨在以简单而强大的方式创建自主多飞行机器人系统。 |
+| 19 | [KumarRobotics/kr_mav_control](https://github.com/KumarRobotics/kr_mav_control) | 147 | +1 | 四旋翼飞行器控制代码 |
+| 20 | [sergiovirahonda/cortex](https://github.com/sergiovirahonda/cortex) | 108 | +1 | 用于DIY四轴飞行器的ESP32-S3飞行控制器：实时PID稳定、DShot电调、nRF24无线电、... |
 
 ---
 
@@ -270,4 +270,4 @@ git clone https://github.com/lllray/awesome-uav.git
 
 ---
 
-<p align="center"><sub>✨ 自动整理 · 2026-03-02 20:49:10</sub></p>
+<p align="center"><sub>✨ 自动整理 · 2026-03-02 20:57:07</sub></p>
