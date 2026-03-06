@@ -1,0 +1,358 @@
+{
+  "date": "2026-03-06",
+  "total_skills": 3221,
+  "total_stars": 1863879,
+  "new_today": 466,
+  "top_gainers": [
+    {
+      "name": "arpanghosh8453/open-dronelog",
+      "stars": 1116,
+      "delta": 74,
+      "url": "https://github.com/arpanghosh8453/open-dronelog",
+      "description": "Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Built with Tauri v2, DuckDB, and React."
+    },
+    {
+      "name": "PX4/PX4-Autopilot",
+      "stars": 11211,
+      "delta": 41,
+      "url": "https://github.com/PX4/PX4-Autopilot",
+      "description": "PX4 Autopilot Software"
+    },
+    {
+      "name": "ArduPilot/ardupilot",
+      "stars": 14609,
+      "delta": 31,
+      "url": "https://github.com/ArduPilot/ardupilot",
+      "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source"
+    },
+    {
+      "name": "aau-cns/Ardupilot_Multiagent_Simulation",
+      "stars": 111,
+      "delta": 28,
+      "url": "https://github.com/aau-cns/Ardupilot_Multiagent_Simulation",
+      "description": "Simulation environment for multiagent drone systems using Ardupilot, ROS 2, and Gazebo enabling users to spawn and control multiple drones, configure sensors, and test autonomous behaviors in a reproducible and extensible setup."
+    },
+    {
+      "name": "facontidavide/PlotJuggler",
+      "stars": 5747,
+      "delta": 16,
+      "url": "https://github.com/facontidavide/PlotJuggler",
+      "description": "The Time Series Visualization Tool that you deserve."
+    },
+    {
+      "name": "mavlink/qgroundcontrol",
+      "stars": 4394,
+      "delta": 16,
+      "url": "https://github.com/mavlink/qgroundcontrol",
+      "description": "Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)"
+    },
+    {
+      "name": "betaflight/betaflight",
+      "stars": 10663,
+      "delta": 12,
+      "url": "https://github.com/betaflight/betaflight",
+      "description": "Open Source Flight Controller Firmware"
+    },
+    {
+      "name": "rubenCodeforges/ardudeck",
+      "stars": 28,
+      "delta": 12,
+      "url": "https://github.com/rubenCodeforges/ardudeck",
+      "description": "One GCS to rule them all. ArduPilot, Betaflight, iNav - all in one app. Mission planning, PID tuning, OSD simulator, SITL with FlightGear. Cross-platform (Win/Mac/Linux)"
+    },
+    {
+      "name": "utiasDSL/gym-pybullet-drones",
+      "stars": 1868,
+      "delta": 11,
+      "url": "https://github.com/utiasDSL/gym-pybullet-drones",
+      "description": "PyBullet Gymnasium environments for single and multi-agent reinforcement learning of quadcopter control"
+    },
+    {
+      "name": "ExpressLRS/ExpressLRS",
+      "stars": 4758,
+      "delta": 10,
+      "url": "https://github.com/ExpressLRS/ExpressLRS",
+      "description": "ESP32/ESP8285-based High-Performance Radio Link for RC applications"
+    },
+    {
+      "name": "iamaisim/ProjectAirSim",
+      "stars": 522,
+      "delta": 10,
+      "url": "https://github.com/iamaisim/ProjectAirSim",
+      "description": "Project AirSim is Microsoft's evolution of AirSim, an advanced simulation platform for building, training, and testing autonomous systems in high-fidelity virtual environments"
+    },
+    {
+      "name": "VisDrone/VisDrone-Dataset",
+      "stars": 2123,
+      "delta": 9,
+      "url": "https://github.com/VisDrone/VisDrone-Dataset",
+      "description": "The dataset for drone based detection and tracking is released, including both image/video, and annotations."
+    },
+    {
+      "name": "HenryHuYu/DiffPhysDrone",
+      "stars": 478,
+      "delta": 9,
+      "url": "https://github.com/HenryHuYu/DiffPhysDrone",
+      "description": "Published on Nature Machine Intelligence! The first real robot(quadrotor) based on differentiable physics training."
+    },
+    {
+      "name": "OpenDroneMap/WebODM",
+      "stars": 3706,
+      "delta": 8,
+      "url": "https://github.com/OpenDroneMap/WebODM",
+      "description": "User-friendly, commercial-grade software for processing aerial imagery. ✈️"
+    },
+    {
+      "name": "espressif/esp-drone",
+      "stars": 1508,
+      "delta": 8,
+      "url": "https://github.com/espressif/esp-drone",
+      "description": "Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs."
+    },
+    {
+      "name": "mavlink/MAVSDK",
+      "stars": 837,
+      "delta": 8,
+      "url": "https://github.com/mavlink/MAVSDK",
+      "description": "API and library for MAVLink compatible systems written in C++17"
+    },
+    {
+      "name": "W0rthlessS0ul/nRF24_jammer",
+      "stars": 515,
+      "delta": 8,
+      "url": "https://github.com/W0rthlessS0ul/nRF24_jammer",
+      "description": "The nRF24 jammer is a powerful tool that requires an ESP32 and configurable numbers of NRF24 modules to assemble. It is designed to create interference, disrupting the normal operation of Bluetooth devices 🔊, BLE technology 📱, drones 🚁, Wi-Fi networks 📶 and Zigbee 📡. Additionally, it features a user-friendly web interface 🌐."
+    },
+    {
+      "name": "OpenDroneMap/ODM",
+      "stars": 5874,
+      "delta": 7,
+      "url": "https://github.com/OpenDroneMap/ODM",
+      "description": "A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷"
+    },
+    {
+      "name": "ArduPilot/MissionPlanner",
+      "stars": 2183,
+      "delta": 7,
+      "url": "https://github.com/ArduPilot/MissionPlanner",
+      "description": "Mission Planner Ground Control Station for ArduPilot (c# .net)"
+    },
+    {
+      "name": "okalachev/flix",
+      "stars": 817,
+      "delta": 7,
+      "url": "https://github.com/okalachev/flix",
+      "description": "Making an ESP32-based quadcopter from scratch"
+    },
+    {
+      "name": "xuankuzcr/LIV_handhold",
+      "stars": 755,
+      "delta": 7,
+      "url": "https://github.com/xuankuzcr/LIV_handhold",
+      "description": "Hardware-synchronized device for FAST-LIVO (Handheld & UAV)."
+    },
+    {
+      "name": "PegasusSimulator/PegasusSimulator",
+      "stars": 724,
+      "delta": 7,
+      "url": "https://github.com/PegasusSimulator/PegasusSimulator",
+      "description": "A framework built on top of NVIDIA Isaac Sim for simulating drones with PX4 support and much more"
+    },
+    {
+      "name": "JacopoPan/aerial-autonomy-stack",
+      "stars": 340,
+      "delta": 7,
+      "url": "https://github.com/JacopoPan/aerial-autonomy-stack",
+      "description": "An open-source stack to simulate and deploy perception-based PX4/ArduPilot drones using ROS2, YOLO, LiDAR, and NVIDIA Jetson"
+    },
+    {
+      "name": "Cosys-Lab/Cosys-AirSim",
+      "stars": 319,
+      "delta": 7,
+      "url": "https://github.com/Cosys-Lab/Cosys-AirSim",
+      "description": "AirSim is a simulator for drones, cars and more, built on Unreal Engine. We expand it with new implementations and sensor modalities."
+    },
+    {
+      "name": "LTU-RAI/Map-Conversion-3D-Voxel-Map-to-2D-Occupancy-Map",
+      "stars": 174,
+      "delta": 7,
+      "url": "https://github.com/LTU-RAI/Map-Conversion-3D-Voxel-Map-to-2D-Occupancy-Map",
+      "description": "Ros package for converting 3D voxel maps generated by the UFOMap and the OctoMap mapping solution into 2D occupancy maps for unmanned aerial vehicles (UAVs) and unmanned ground vehicles (UGV)"
+    },
+    {
+      "name": "HKUST-Aerial-Robotics/Fast-Planner",
+      "stars": 3200,
+      "delta": 6,
+      "url": "https://github.com/HKUST-Aerial-Robotics/Fast-Planner",
+      "description": "A Robust and Efficient Trajectory Planner for Quadrotors"
+    },
+    {
+      "name": "amov-lab/Prometheus",
+      "stars": 3062,
+      "delta": 6,
+      "url": "https://github.com/amov-lab/Prometheus",
+      "description": "Open source software for autonomous drones."
+    },
+    {
+      "name": "o-gs/dji-firmware-tools",
+      "stars": 1996,
+      "delta": 6,
+      "url": "https://github.com/o-gs/dji-firmware-tools",
+      "description": "Tools for handling firmwares of DJI products, with focus on quadcopters."
+    },
+    {
+      "name": "rtlopez/esp-fc",
+      "stars": 580,
+      "delta": 6,
+      "url": "https://github.com/rtlopez/esp-fc",
+      "description": "Flight controller software for hobbyist - build your own flight controller."
+    },
+    {
+      "name": "apachecn/awesome-drones-zh",
+      "stars": 552,
+      "delta": 6,
+      "url": "https://github.com/apachecn/awesome-drones-zh",
+      "description": "无人机资源汇总"
+    },
+    {
+      "name": "qqqlab/madflight",
+      "stars": 393,
+      "delta": 6,
+      "url": "https://github.com/qqqlab/madflight",
+      "description": "Flight Controller for ESP32 / Raspberry Pico / STM32"
+    },
+    {
+      "name": "marshallrichards/turbodrone",
+      "stars": 355,
+      "delta": 6,
+      "url": "https://github.com/marshallrichards/turbodrone",
+      "description": "reverse engineering the best-selling drones on Amazon to control programmatically"
+    },
+    {
+      "name": "RoboMaster/IntelligentUAVChampionshipSimulator",
+      "stars": 184,
+      "delta": 6,
+      "url": "https://github.com/RoboMaster/IntelligentUAVChampionshipSimulator",
+      "description": "This the the repo containing all stages of the drone competition, including circle crossing, auto flight and FPV racing."
+    },
+    {
+      "name": "aimarket/awesome-autonomous-drone-racing",
+      "stars": 64,
+      "delta": 6,
+      "url": "https://github.com/aimarket/awesome-autonomous-drone-racing",
+      "description": "Curated resources for autonomous drone racing: AI Grand Prix, A2RL, RL tutorials  Resources, tools, and starter code for autonomous drone racing competitions including the Anduril AI Grand Prix, AlphaPilot, A2RL, and NeurIPS Game of Drones. Covers simulation environments, reinforcement learning, computer vision, and trajectory planning."
+    },
+    {
+      "name": "ZJU-FAST-Lab/Fast-Drone-250",
+      "stars": 2275,
+      "delta": 5,
+      "url": "https://github.com/ZJU-FAST-Lab/Fast-Drone-250",
+      "description": "hardware and software design of the 250mm autonomous drone"
+    },
+    {
+      "name": "dronesploit/dronesploit",
+      "stars": 1842,
+      "delta": 5,
+      "url": "https://github.com/dronesploit/dronesploit",
+      "description": "Drone pentesting framework console"
+    },
+    {
+      "name": "ZJU-FAST-Lab/GCOPTER",
+      "stars": 1172,
+      "delta": 5,
+      "url": "https://github.com/ZJU-FAST-Lab/GCOPTER",
+      "description": "A General-Purpose Trajectory Optimizer for Multicopters"
+    },
+    {
+      "name": "Zhefan-Xu/CERLAB-UAV-Autonomy",
+      "stars": 780,
+      "delta": 5,
+      "url": "https://github.com/Zhefan-Xu/CERLAB-UAV-Autonomy",
+      "description": "[CMU] A Versatile and Modular Framework Designed for Autonomous Unmanned Aerial Vehicles [UAVs] (C++/ROS/PX4)"
+    },
+    {
+      "name": "VisDrone/DroneVehicle",
+      "stars": 670,
+      "delta": 5,
+      "url": "https://github.com/VisDrone/DroneVehicle",
+      "description": "Drone-based RGB-Infrared Cross-Modality Vehicle Detection via Uncertainty-Aware Learning"
+    },
+    {
+      "name": "monemati/PX4-ROS2-Gazebo-YOLOv8",
+      "stars": 320,
+      "delta": 5,
+      "url": "https://github.com/monemati/PX4-ROS2-Gazebo-YOLOv8",
+      "description": "Aerial Object Detection using a Drone with PX4 Autopilot and ROS 2. PX4 SITL and Gazebo Garden used for Simulation. YOLOv8 used for Object Detection."
+    },
+    {
+      "name": "sergiovirahonda/cortex",
+      "stars": 113,
+      "delta": 5,
+      "url": "https://github.com/sergiovirahonda/cortex",
+      "description": "ESP32-S3 flight controller for DIY quadcopters: real-time PID stabilization, DShot ESCs, nRF24 radio, telemetry downlink. Pairs with Synapse TX."
+    },
+    {
+      "name": "Zichen-Yan/SIGN",
+      "stars": 28,
+      "delta": 5,
+      "url": "https://github.com/Zichen-Yan/SIGN",
+      "description": "[RAL-25] SIGN: Safety-Aware Image-Goal Navigation for Autonomous Drones via Reinforcement Learning"
+    },
+    {
+      "name": "but0n/Avem",
+      "stars": 2680,
+      "delta": 4,
+      "url": "https://github.com/but0n/Avem",
+      "description": "🚁 轻量级无人机飞控-[Drone]-[STM32]-[PID]-[BLDC]"
+    },
+    {
+      "name": "damiafuentes/DJITelloPy",
+      "stars": 1440,
+      "delta": 4,
+      "url": "https://github.com/damiafuentes/DJITelloPy",
+      "description": "DJI Tello drone python interface using the official Tello SDK. Feel free to contribute!"
+    },
+    {
+      "name": "HKUST-Aerial-Robotics/FUEL",
+      "stars": 1347,
+      "delta": 4,
+      "url": "https://github.com/HKUST-Aerial-Robotics/FUEL",
+      "description": "An Efficient Framework for Fast UAV Exploration"
+    },
+    {
+      "name": "pixhawk/Hardware",
+      "stars": 1277,
+      "delta": 4,
+      "url": "https://github.com/pixhawk/Hardware",
+      "description": "PX4 Hardware designs"
+    },
+    {
+      "name": "henbudidiao/UAV-path-planning",
+      "stars": 665,
+      "delta": 4,
+      "url": "https://github.com/henbudidiao/UAV-path-planning",
+      "description": "Multi/Single UAV(unmanned aerial vehicle) path planning based on deep reinforcement learning"
+    },
+    {
+      "name": "Hub-Tian/UAVs_Meet_LLMs",
+      "stars": 444,
+      "delta": 4,
+      "url": "https://github.com/Hub-Tian/UAVs_Meet_LLMs",
+      "description": ""
+    },
+    {
+      "name": "nicholasaleks/Damn-Vulnerable-Drone",
+      "stars": 369,
+      "delta": 4,
+      "url": "https://github.com/nicholasaleks/Damn-Vulnerable-Drone",
+      "description": "Damn Vulnerable Drone is an intentionally vulnerable drone hacking simulator based on the popular ArduPilot/MAVLink architecture, providing a realistic environment for hands-on drone hacking."
+    },
+    {
+      "name": "Zhefan-Xu/Intent-MPC",
+      "stars": 309,
+      "delta": 4,
+      "url": "https://github.com/Zhefan-Xu/Intent-MPC",
+      "description": "[IEEE RA-L'25] Intent Prediction-Driven Model Predictive Control for UAV Planning and Navigation in Dynamic Environments (C++/ROS)"
+    }
+  ]
+}
