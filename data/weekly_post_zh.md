@@ -1,11 +1,11 @@
-# 每周报告 2026-05-08
+# 每周报告 2026-05-15
 - 仓库: Awesome UAV / Drone
-- 本周新增: 21 | 总数: 3329 | Stars: 1,902,919
+- 本周新增: 22 | 总数: 3339 | Stars: 1,904,401
 - 链接: https://github.com/lllray/awesome-uav
 
 ## 热门 Top 5
-1. [louiszengCN/CarlaAir](https://github.com/louiszengCN/CarlaAir) +92⭐ — CarlaAir: A unified air-ground simulation platform integrating CARLA and AirSim
-2. [ChiZhang-805/DroneDream](https://github.com/ChiZhang-805/DroneDream) +48⭐ — 🚁DroneDream is a PX4/Gazebo-oriented web platform for automatic drone parameter 
-3. [altnautica/ADOSMissionControl](https://github.com/altnautica/ADOSMissionControl) +46⭐ — Open-source web-based Ground Control Station for autonomous drones. FC config, s
-4. [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) +43⭐ — ArduPlane, ArduCopter, ArduRover, ArduSub source
-5. [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) +43⭐ — PX4 Autopilot Software
+1. [louiszengCN/CarlaAir](https://github.com/louiszengCN/CarlaAir) +103⭐ — CarlaAir: A unified air-ground simulation platform integrating CARLA and AirSim
+2. [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) +69⭐ — PX4 Autopilot Software
+3. [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) +55⭐ — ArduPlane, ArduCopter, ArduRover, ArduSub source
+4. [dimensionalOS/dimos](https://github.com/dimensionalOS/dimos) +37⭐ — Dimensional is the agentic operating system for physical space. Vibecode humanoi
+5. [ChiZhang-805/DroneDream](https://github.com/ChiZhang-805/DroneDream) +33⭐ — 🚁DroneDream is a PX4/Gazebo-oriented web platform for automatic drone parameter 
