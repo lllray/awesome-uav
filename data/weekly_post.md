@@ -1,11 +1,11 @@
-# Weekly Report 2026-05-29
+# Weekly Report 2026-06-05
 - Repo: Awesome UAV / Drone
-- New: 32 | Total: 3371 | Stars: 1,908,094
+- New: 21 | Total: 3380 | Stars: 1,909,730
 - Link: https://github.com/lllray/awesome-uav
 
 ## Top 5 Trending
-1. [dimensionalOS/dimos](https://github.com/dimensionalOS/dimos) +63⭐ — Dimensional is the agentic operating system for physical space. Vibecode humanoi
-2. [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) +55⭐ — PX4 Autopilot Software
-3. [ExperimentalDesignBureau-1571/fpv-ground-control-station](https://github.com/ExperimentalDesignBureau-1571/fpv-ground-control-station) +50⭐ — Modular Ground Control Station for FPV Drones
-4. [guchuanv-alt/SimART](https://github.com/guchuanv-alt/SimART) +35⭐ — An open-source software platform for all-scenario wireless communication and sen
-5. [betaflight/betaflight](https://github.com/betaflight/betaflight) +30⭐ — Open Source Flight Controller Firmware
+1. [CopterExpress/clover](https://github.com/CopterExpress/clover) +120⭐ — ROS-based framework and RPi image to control PX4-powered drones 🍀
+2. [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) +67⭐ — ArduPlane, ArduCopter, ArduRover, ArduSub source
+3. [zhan994/AgriLiRa4D](https://github.com/zhan994/AgriLiRa4D) +52⭐ — AgriLiRa4D: A Multi-Sensor UAV Dataset for Robust SLAM in Challenging Agricultur
+4. [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) +43⭐ — PX4 Autopilot Software
+5. [dimensionalOS/dimos](https://github.com/dimensionalOS/dimos) +40⭐ — Dimensional is the agentic operating system for physical space. Vibecode humanoi
