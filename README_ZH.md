@@ -4,7 +4,7 @@
 
 > 无人机精选集合 —— 飞控、自主导航、集群、视觉避障、行业应用等资源自动收录
 
-![收录](https://img.shields.io/badge/%E6%94%B6%E5%BD%95-3423-blue?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-1919k%2B-yellow?style=flat-square) ![本周新增](https://img.shields.io/badge/%E6%9C%AC%E5%91%A8%E6%96%B0%E5%A2%9E-38-green?style=flat-square) ![更新](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0-2026-06-26-orange?style=flat-square)
+![收录](https://img.shields.io/badge/%E6%94%B6%E5%BD%95-3436-blue?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-1921k%2B-yellow?style=flat-square) ![本周新增](https://img.shields.io/badge/%E6%9C%AC%E5%91%A8%E6%96%B0%E5%A2%9E-35-green?style=flat-square) ![更新](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0-2026-07-03-orange?style=flat-square)
 
 ---
 
@@ -18,52 +18,52 @@
 
 | 分类 | 数量 | 占比 |
 |------|-----:|-----:|
-| 🎮 飞控 & 固件 | 620 | ██████ 18.1% |
-| 🧭 自主导航 & 规划 | 163 | █ 4.8% |
+| 🎮 飞控 & 固件 | 625 | ██████ 18.2% |
+| 🧭 自主导航 & 规划 | 164 | █ 4.8% |
 | 🐝 集群 & 协同 | 254 | ██ 7.4% |
-| 👁️ 视觉 & 感知 | 47 | █ 1.4% |
-| 🎮 仿真 & 工具 | 357 | ███ 10.4% |
-| 📦 行业应用 | 36 | █ 1.1% |
-| 📦 其他 | 492 | ████ 14.4% |
+| 👁️ 视觉 & 感知 | 51 | █ 1.5% |
+| 🎮 仿真 & 工具 | 358 | ███ 10.4% |
+| 📦 行业应用 | 37 | █ 1.1% |
+| 📦 其他 | 493 | ████ 14.3% |
 
 ---
 
-## 🔥 每周热门 (2026-06-26)
+## 🔥 每周热门 (2026-07-03)
 
 | # | 项目 | ⭐ | 📈 周增 | 描述 |
 |:-:|------|---:|-------:|------|
-| 1 | [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) | 12,029 | +51 | PX4自动驾驶软件 |
-| 2 | [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) | 15,364 | +45 | ArduPlane、ArduCopter、ArduRover、ArduSub源代码 |
-| 3 | [zhangcbb/yolov14](https://github.com/zhangcbb/yolov14) | 55 | +31 | YOLOv14: A cross-domain real-time object detection... |
-| 4 | [betaflight/betaflight](https://github.com/betaflight/betaflight) | 11,136 | +30 | 开源飞行控制器固件 |
-| 5 | [dimensionalOS/dimos](https://github.com/dimensionalOS/dimos) | 3,552 | +29 | Dimensional is the agentic operating system for ph... |
-| 6 | [JacopoPan/aerial-autonomy-stack](https://github.com/JacopoPan/aerial-autonomy-stack) | 496 | +26 | An open-source stack to simulate and deploy percep... |
-| 7 | [alebal123bal/khadas_yolov8n_multithread](https://github.com/alebal123bal/khadas_yolov8n_multithread) | 72 | +25 | Real-time YOLOv8n UAV detection at the sensor's 46... |
-| 8 | [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol) | 4,701 | +23 | Cross-platform ground control station for drones (... |
-| 9 | [OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM) | 6,221 | +20 | A command line toolkit to generate maps, point clo... |
-| 10 | [wd-sir/UAVDETR](https://github.com/wd-sir/UAVDETR) | 50 | +19 | This is the official code for UAV-DETR: DETR for A... |
-| 11 | [openMVG/openMVG](https://github.com/openMVG/openMVG) | 6,451 | +18 | open Multiple View Geometry library. Basis for 3D ... |
+| 1 | [nicholasaleks/Damn-Vulnerable-Drone](https://github.com/nicholasaleks/Damn-Vulnerable-Drone) | 501 | +92 | Damn Vulnerable Drone is an intentionally vulnerab... |
+| 2 | [dimensionalOS/dimos](https://github.com/dimensionalOS/dimos) | 3,615 | +63 | Dimensional is the agentic operating system for ph... |
+| 3 | [openMVG/openMVG](https://github.com/openMVG/openMVG) | 6,508 | +57 | open Multiple View Geometry library. Basis for 3D ... |
+| 4 | [mathiasmantelli/awesome-mobile-robotics](https://github.com/mathiasmantelli/awesome-mobile-robotics) | 768 | +55 | Useful links of different content related to AI, C... |
+| 5 | [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) | 15,409 | +45 | ArduPlane、ArduCopter、ArduRover、ArduSub源代码 |
+| 6 | [sgoudelis/ground-station](https://github.com/sgoudelis/ground-station) | 4,594 | +36 | Browser-based ground station suite for satellite t... |
+| 7 | [zhangcbb/yolov14](https://github.com/zhangcbb/yolov14) | 88 | +33 | YOLOv14: A cross-domain real-time object detection... |
+| 8 | [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) | 12,061 | +32 | PX4自动驾驶软件 |
+| 9 | [betaflight/betaflight](https://github.com/betaflight/betaflight) | 11,165 | +29 | 开源飞行控制器固件 |
+| 10 | [PlotJuggler/PlotJuggler](https://github.com/PlotJuggler/PlotJuggler) | 5,999 | +24 | The Time Series Visualization Tool that you deserv... |
+| 11 | [ExpressLRS/ExpressLRS](https://github.com/ExpressLRS/ExpressLRS) | 5,051 | +20 | ESP32/ESP8285-based High-Performance Radio Link fo... |
 | 12 | [facontidavide/PlotJuggler](https://github.com/facontidavide/PlotJuggler) | 5,829 | +18 | The Time Series Visualization Tool that you deserv... |
-| 13 | [cirosantilli/china-dictatorship](https://github.com/cirosantilli/china-dictatorship) | 3,072 | +18 | 反中共政治宣传库。Anti Chinese government propaganda. 住在中国真... |
-| 14 | [VisDrone/VisDrone-Dataset](https://github.com/VisDrone/VisDrone-Dataset) | 2,406 | +16 | The dataset for drone based detection and tracking... |
-| 15 | [ExpressLRS/ExpressLRS](https://github.com/ExpressLRS/ExpressLRS) | 5,031 | +15 | ESP32/ESP8285-based High-Performance Radio Link fo... |
-| 16 | [WebODM/WebODM](https://github.com/WebODM/WebODM) | 4,003 | +15 | User-friendly, commercial-grade software for proce... |
-| 17 | [PlotJuggler/PlotJuggler](https://github.com/PlotJuggler/PlotJuggler) | 5,975 | +13 | The Time Series Visualization Tool that you deserv... |
+| 13 | [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol) | 4,719 | +18 | Cross-platform ground control station for drones (... |
+| 14 | [louiszengCN/CarlaAir](https://github.com/louiszengCN/CarlaAir) | 1,022 | +17 | CarlaAir: A unified air-ground simulation platform... |
+| 15 | [Root-Down-Digital/DragonSync-iOS](https://github.com/Root-Down-Digital/DragonSync-iOS) | 223 | +17 | iOS WarDragon Utility App |
+| 16 | [VisDrone/VisDrone-Dataset](https://github.com/VisDrone/VisDrone-Dataset) | 2,421 | +15 | The dataset for drone based detection and tracking... |
+| 17 | [amov-lab/Prometheus](https://github.com/amov-lab/Prometheus) | 3,197 | +13 | Open source software for autonomous drones. |
 | 18 | [utiasDSL/gym-pybullet-drones](https://github.com/utiasDSL/gym-pybullet-drones) | 1,977 | +13 | 用于四旋翼飞行器控制的单智能体与多智能体强化学习的PyBullet Gymnasium环境 |
-| 19 | [ArduPilot/MissionPlanner](https://github.com/ArduPilot/MissionPlanner) | 2,289 | +12 | Mission Planner Ground Control Station for ArduPil... |
-| 20 | [hifihedgehog/PadForge](https://github.com/hifihedgehog/PadForge) | 140 | +11 | Windows controller remapper. Any input device in, ... |
+| 19 | [learnsyslab/gym-pybullet-drones](https://github.com/learnsyslab/gym-pybullet-drones) | 2,073 | +12 | 用于四旋翼飞行器控制的单智能体与多智能体强化学习的PyBullet Gymnasium环境 |
+| 20 | [JacopoPan/aerial-autonomy-stack](https://github.com/JacopoPan/aerial-autonomy-stack) | 508 | +12 | An open-source stack to simulate and deploy percep... |
 
 ---
 
 ## 📁 分类目录
 
-- [🎮 飞控 & 固件](#flight-control) (620)
-- [🧭 自主导航 & 规划](#autonomy) (163)
+- [🎮 飞控 & 固件](#flight-control) (625)
+- [🧭 自主导航 & 规划](#autonomy) (164)
 - [🐝 集群 & 协同](#swarm) (254)
-- [👁️ 视觉 & 感知](#vision) (47)
-- [🎮 仿真 & 工具](#simulation) (357)
-- [📦 行业应用](#application) (36)
-- [📦 其他](#other) (492)
+- [👁️ 视觉 & 感知](#vision) (51)
+- [🎮 仿真 & 工具](#simulation) (358)
+- [📦 行业应用](#application) (37)
+- [📦 其他](#other) (493)
 
 ---
 
@@ -72,43 +72,43 @@
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
 | [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) | 13,621 | Rust | Firmware Analysis Tool |
-| [betaflight/betaflight](https://github.com/betaflight/betaflight) | 11,136 | C | Open Source Flight Controller Firmware |
+| [betaflight/betaflight](https://github.com/betaflight/betaflight) | 11,165 | C | Open Source Flight Controller Firmware |
 | [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) | 8,273 | Rust | Video stabilization using gyroscope data |
-| [PlotJuggler/PlotJuggler](https://github.com/PlotJuggler/PlotJuggler) | 5,975 | C++ | The Time Series Visualization Tool that you deserve. |
+| [PlotJuggler/PlotJuggler](https://github.com/PlotJuggler/PlotJuggler) | 5,999 | C++ | The Time Series Visualization Tool that you deserve. |
 | [facontidavide/PlotJuggler](https://github.com/facontidavide/PlotJuggler) | 5,829 | C++ | The Time Series Visualization Tool that you deserve. |
-| [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol) | 4,701 | C++ | Cross-platform ground control station for drones (Android, iOS, Mac OS... |
-| [iNavFlight/inav](https://github.com/iNavFlight/inav) | 4,129 | C | INAV: Navigation-enabled flight control software |
+| [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol) | 4,719 | C++ | Cross-platform ground control station for drones (Android, iOS, Mac OS... |
+| [iNavFlight/inav](https://github.com/iNavFlight/inav) | 4,133 | C | INAV: Navigation-enabled flight control software |
 | [inavFlight/inav](https://github.com/iNavFlight/inav) | 3,968 | C | INAV: Navigation-enabled flight control software |
 | [e-m-b-a/emba](https://github.com/e-m-b-a/emba) | 3,374 | Shell | EMBA - The firmware security analyzer |
-| [but0n/Avem](https://github.com/but0n/Avem) | 2,817 | C | 🚁 轻量级无人机飞控-[Drone]-[STM32]-[PID]-[BLDC] |
+| [but0n/Avem](https://github.com/but0n/Avem) | 2,822 | C | 🚁 轻量级无人机飞控-[Drone]-[STM32]-[PID]-[BLDC] |
 | [cleanflight/cleanflight](https://github.com/cleanflight/cleanflight) | 2,730 | C | Clean-code version of the baseflight flight controller firmware |
-| [ArduPilot/MissionPlanner](https://github.com/ArduPilot/MissionPlanner) | 2,289 | C# | Mission Planner Ground Control Station for ArduPilot (c# .net) |
+| [ArduPilot/MissionPlanner](https://github.com/ArduPilot/MissionPlanner) | 2,295 | C# | Mission Planner Ground Control Station for ArduPilot (c# .net) |
 | [opentx/opentx](https://github.com/opentx/opentx) | 2,175 | C++ | OpenTX custom firmware for Transmitters |
-| [o-gs/dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools) | 2,115 | C | Tools for handling firmwares of DJI products, with focus on quadcopter... |
+| [o-gs/dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools) | 2,121 | C | Tools for handling firmwares of DJI products, with focus on quadcopter... |
 | [generalized-intelligence/GAAS](https://github.com/generalized-intelligence/GAAS) | 2,068 | C++ | GAAS is an open-source program designed for fully autonomous VTOL(a.k.... |
-| [espressif/esp-drone](https://github.com/espressif/esp-drone) | 1,903 | C | Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs. |
+| [espressif/esp-drone](https://github.com/espressif/esp-drone) | 1,909 | C | Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs. |
 | [ethz-adrl/control-toolbox](https://github.com/ethz-adrl/control-toolbox) | 1,662 | C++ | The Control Toolbox - An Open-Source C++ Library for Robotics, Optimal... |
 | [ArduPilots/MissionPlanner](https://github.com/ArduPilots/MissionPlanner) | 1,591 | C# | Mission Planner Ground Control Station for ArduPilot (c# .net) |
 | [dRoninFlight/dRonin](https://github.com/dRoninFlight/dRonin) | 1,520 | C | The dRonin flight controller software. |
-| [bitcraze/crazyflie-firmware](https://github.com/bitcraze/crazyflie-firmware) | 1,502 | C | The main firmware for the Crazyflie Nano Quadcopter, Crazyflie Bolt Qu... |
+| [bitcraze/crazyflie-firmware](https://github.com/bitcraze/crazyflie-firmware) | 1,506 | C | The main firmware for the Crazyflie Nano Quadcopter, Crazyflie Bolt Qu... |
 | [ShlkOfTheRa/scarab-osd](https://github.com/ShlkOfTheRa/scarab-osd) | 1,482 | C | MWOSD - UAV HUD |
 | [ArduPilots/ardupilot](https://github.com/ArduPilots/ardupilot) | 1,450 | C++ | ArduPlane, ArduCopter, ArduRover, ArduSub source |
-| [nickrehm/dRehmFlight](https://github.com/nickrehm/dRehmFlight) | 1,410 | C++ | Teensy/Arduino flight controller and stabilization for small-scale VTO... |
-| [pixhawk/Hardware](https://github.com/pixhawk/Hardware) | 1,335 | Shell | PX4 Hardware designs |
+| [nickrehm/dRehmFlight](https://github.com/nickrehm/dRehmFlight) | 1,412 | C++ | Teensy/Arduino flight controller and stabilization for small-scale VTO... |
+| [pixhawk/Hardware](https://github.com/pixhawk/Hardware) | 1,338 | Shell | PX4 Hardware designs |
 | [google/makani](https://github.com/google/makani) | 1,207 | C++ | Makani was a project to develop a commercial-scale airborne wind turbi... |
 | [craigz28/firmwalker](https://github.com/craigz28/firmwalker) | 1,191 | Shell | Script for searching the extracted firmware file system for goodies! |
 | [flashrom/flashrom](https://github.com/flashrom/flashrom) | 1,086 | C | Send patches to https://review.coreboot.org: https://www.flashrom.org/... |
 | [TinyMPC/TinyMPC](https://github.com/TinyMPC/TinyMPC) | 995 | C++ | Model-predictive control for microcontrollers |
-| [dji-sdk/Onboard-SDK](https://github.com/dji-sdk/Onboard-SDK) | 983 | C++ | DJI Onboard SDK Official Repository |
+| [dji-sdk/Onboard-SDK](https://github.com/dji-sdk/Onboard-SDK) | 984 | C++ | DJI Onboard SDK Official Repository |
+| [okalachev/flix](https://github.com/okalachev/flix) | 973 | C++ | Making an ESP32-based quadcopter from scratch |
 | [dji-sdk/onboard](https://github.com/dji-sdk/Onboard-SDK) | 971 | C++ | DJI Onboard SDK Official Repository |
-| [okalachev/flix](https://github.com/okalachev/flix) | 968 | C++ | Making an ESP32-based quadcopter from scratch |
 | [rampageX/firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) | 965 | C | Automatically exported from code.google.com/p/firmware-mod-kit |
 | [Dronecode/DroneCore](https://github.com/mavlink/MAVSDK) | 892 | C++ | API and library for MAVLink compatible systems written in C++ 20 |
 | [cyphunk/JTAGenum](https://github.com/cyphunk/JTAGenum) | 786 | C++ | Given an Arduino compatible microcontroller or Raspberry PI (experimen... |
 | [iNavFlight/inav-configurator](https://github.com/iNavFlight/inav-configurator) | 769 | JavaScript |  |
-| [Robotics-STAR-Lab/RACER](https://github.com/Robotics-STAR-Lab/RACER) | 767 | C++ | Rapid Exploration with Multiple Unmanned Aerial Vehicles (UAV) |
+| [Robotics-STAR-Lab/RACER](https://github.com/Robotics-STAR-Lab/RACER) | 768 | C++ | Rapid Exploration with Multiple Unmanned Aerial Vehicles (UAV) |
 | [am32-firmware/AM32](https://github.com/am32-firmware/AM32) | 763 | C |  |
-| [rtlopez/esp-fc](https://github.com/rtlopez/esp-fc) | 750 | C++ | Flight controller software for hobbyist - build your own flight contro... |
+| [rtlopez/esp-fc](https://github.com/rtlopez/esp-fc) | 761 | C++ | Flight controller software for hobbyist - build your own flight contro... |
 | [PX4/PX4-Avoidance](https://github.com/PX4/PX4-Avoidance) | 745 | C++ | PX4 avoidance ROS node for obstacle detection and avoidance. |
 | [hanyazou/TelloPy](https://github.com/hanyazou/TelloPy) | 714 | Python | DJI Tello drone controller python package |
 
@@ -118,15 +118,15 @@
 
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
-| [samyk/skyjack](https://github.com/samyk/skyjack) | 1,818 | JavaScript | A drone engineered to autonomously seek out, hack, and wirelessly take... |
-| [louiszengCN/CarlaAir](https://github.com/louiszengCN/CarlaAir) | 1,005 | C++ | CarlaAir: A unified air-ground simulation platform integrating CARLA a... |
+| [samyk/skyjack](https://github.com/samyk/skyjack) | 1,819 | JavaScript | A drone engineered to autonomously seek out, hack, and wirelessly take... |
+| [louiszengCN/CarlaAir](https://github.com/louiszengCN/CarlaAir) | 1,022 | C++ | CarlaAir: A unified air-ground simulation platform integrating CARLA a... |
 | [uzh-rpg/agilicious](https://github.com/uzh-rpg/agilicious) | 573 | TeX | Agile flight done right! |
-| [ZJU-FAST-Lab/Swarm-Formation](https://github.com/ZJU-FAST-Lab/Swarm-Formation) | 549 | C++ | Formation Flight in Dense Environments |
-| [Zihao-Felix-Zhou/UavNetSim](https://github.com/Zihao-Felix-Zhou/UavNetSim) | 338 | Python | UavNetSim: A Python-based simulation platform for designing and testin... |
-| [htcr/sam_road](https://github.com/htcr/sam_road) | 281 | Python | Segment Anything Model for large-scale, vectorized road network extrac... |
-| [ntakouris/awesome-dronecraft](https://github.com/ntakouris/awesome-dronecraft) | 228 | - | Resources to fully understand how autonomous drones work. This is manu... |
+| [ZJU-FAST-Lab/Swarm-Formation](https://github.com/ZJU-FAST-Lab/Swarm-Formation) | 551 | C++ | Formation Flight in Dense Environments |
+| [Zihao-Felix-Zhou/UavNetSim](https://github.com/Zihao-Felix-Zhou/UavNetSim) | 343 | Python | UavNetSim: A Python-based simulation platform for designing and testin... |
+| [htcr/sam_road](https://github.com/htcr/sam_road) | 286 | Python | Segment Anything Model for large-scale, vectorized road network extrac... |
+| [ntakouris/awesome-dronecraft](https://github.com/ntakouris/awesome-dronecraft) | 229 | - | Resources to fully understand how autonomous drones work. This is manu... |
 | [zarkopafilis/awesome-dronecraft](https://github.com/ntakouris/awesome-dronecraft) | 213 | - | Resources to fully understand how autonomous drones work. This is manu... |
-| [altnautica/ADOSMissionControl](https://github.com/altnautica/ADOSMissionControl) | 199 | TypeScript | Open-source web-based Ground Control Station for autonomous drones. FC... |
+| [altnautica/ADOSMissionControl](https://github.com/altnautica/ADOSMissionControl) | 204 | TypeScript | Open-source web-based Ground Control Station for autonomous drones. FC... |
 | [alexkoven/Autonomous-UAVs](https://github.com/alexkoven/Autonomous-UAVs) | 143 | - | List of open-source algorithms and resources for UAVs. |
 | [alexozer/jankdrone](https://github.com/alexozer/jankdrone) | 138 | C++ | The jankest autonomous drone ever built and programmed from scratch |
 | [HKUST-Aerial-Robotics/IMPACTOR](https://github.com/HKUST-Aerial-Robotics/IMPACTOR) | 121 | C | Impact-Aware Planning and Control for Aerial Robots with Suspended Pay... |
@@ -134,17 +134,17 @@
 | [linqingbh/MPC-quadcopter](https://github.com/linqingbh/MPC-quadcopter) | 106 | - | Model Predictive Control for an autonomous quadcopter (UAV) |
 | [uzh-rpg/sb_min_time_quadrotor_planning](https://github.com/uzh-rpg/sb_min_time_quadrotor_planning) | 99 | C++ | Code for the project Minimum-Time Quadrotor Waypoint Flight in Clutter... |
 | [tylerLiCodes/Flyguard](https://github.com/tylerLiCodes/Flyguard) | 96 | Python | Autonomous drone horn-fly laser defense for cattle farms |
-| [makramchahine/drone_causality](https://github.com/makramchahine/drone_causality) | 91 | Python | Training, data processing, and analysis code used for the paper "Robus... |
+| [makramchahine/drone_causality](https://github.com/makramchahine/drone_causality) | 92 | Python | Training, data processing, and analysis code used for the paper "Robus... |
 | [MrHaiPi/UAVPathPlanningSystem](https://github.com/MrHaiPi/UAVPathPlanningSystem) | 85 | MATLAB | This project belongs to innovation and entrepreneurship training progr... |
-| [learnsyslab/lsy_drone_racing](https://github.com/learnsyslab/lsy_drone_racing) | 77 | Python | LSY Autonomous Drone Racing Challenge |
-| [sumitrj/ConnectedQ-Multi-agent-Reinforcement-Learning-Algorithm](https://github.com/sumitrj/ConnectedQ-Multi-agent-Reinforcement-Learning-Algorithm) | 75 | Python | Modified MDP and Q-Learning Algorithm | Multiagent optimization | Path... |
+| [learnsyslab/lsy_drone_racing](https://github.com/learnsyslab/lsy_drone_racing) | 79 | Python | LSY Autonomous Drone Racing Challenge |
+| [sumitrj/ConnectedQ-Multi-agent-Reinforcement-Learning-Algorithm](https://github.com/sumitrj/ConnectedQ-Multi-agent-Reinforcement-Learning-Algorithm) | 76 | Python | Modified MDP and Q-Learning Algorithm | Multiagent optimization | Path... |
 | [ZJU-FAST-Lab/forces_resilient_planner](https://github.com/ZJU-FAST-Lab/forces_resilient_planner) | 69 | C | External Forces Resilient Safe Motion Planning for Quadrotor |
 | [Curious-Nikhil/Tejas-Rocket-Flight-Computer](https://github.com/Curious-Nikhil/Tejas-Rocket-Flight-Computer) | 68 | HTML | An autonomous Thrust Vector Control rocket with self-landing capabilit... |
 | [bennihepp/Quad3DR](https://github.com/bennihepp/Quad3DR) | 67 | C++ | Quadrotor planning for 3D Reconstruction |
 | [JayaSaiKishanChapparam/altara](https://github.com/JayaSaiKishanChapparam/altara) | 65 | TypeScript | React components for real-time telemetry dashboards — robotics, aerosp... |
 | [uenota/cpp_uav](https://github.com/uenota/cpp_uav) | 62 | C++ | Coverage path planning package for UAVs |
-| [knoxsbyte/argos](https://github.com/knoxsbyte/argos) | 57 | Python | A  fully end-to-end framework for coordinating swarms of Unitree G1 hu... |
-| [XinChen-stars/AERO_MPPI](https://github.com/XinChen-stars/AERO_MPPI) | 56 | - | [ICRA-2026] AERO-MPPI: Anchor-Guided Ensemble Trajectory Optimization ... |
+| [XinChen-stars/AERO_MPPI](https://github.com/XinChen-stars/AERO_MPPI) | 58 | - | [ICRA-2026] AERO-MPPI: Anchor-Guided Ensemble Trajectory Optimization ... |
+| [knoxsbyte/argos](https://github.com/knoxsbyte/argos) | 58 | Python | A  fully end-to-end framework for coordinating swarms of Unitree G1 hu... |
 | [ZJU-FAST-Lab/EDG-TEAM](https://github.com/ZJU-FAST-Lab/EDG-TEAM) | 53 | C++ | Enhanced Decentralized Autonomous Aerial Robot Teams with Group Planni... |
 | [sebastiano123-c/DroneIno](https://github.com/sebastiano123-c/DroneIno) | 49 | C | Arduino code for ESP32 based DIY quadcopter drones, providing autonomo... |
 | [mikeroyal/Autonomous-Systems-Guide](https://github.com/mikeroyal/Autonomous-Systems-Guide) | 49 | Python | Autonomous Systems Guide |
@@ -165,29 +165,29 @@
 
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
-| [dimensionalOS/dimos](https://github.com/dimensionalOS/dimos) | 3,552 | Python | Dimensional is the agentic operating system for physical space. Vibeco... |
-| [ZJU-FAST-Lab/ego-planner-swarm](https://github.com/ZJU-FAST-Lab/ego-planner-swarm) | 2,087 | C++ | An efficient single/multi-agent trajectory planner for multicopters. |
-| [learnsyslab/gym-pybullet-drones](https://github.com/learnsyslab/gym-pybullet-drones) | 2,061 | Python | PyBullet Gymnasium environments for single and multi-agent reinforceme... |
+| [dimensionalOS/dimos](https://github.com/dimensionalOS/dimos) | 3,615 | Python | Dimensional is the agentic operating system for physical space. Vibeco... |
+| [ZJU-FAST-Lab/ego-planner-swarm](https://github.com/ZJU-FAST-Lab/ego-planner-swarm) | 2,097 | C++ | An efficient single/multi-agent trajectory planner for multicopters. |
+| [learnsyslab/gym-pybullet-drones](https://github.com/learnsyslab/gym-pybullet-drones) | 2,073 | Python | PyBullet Gymnasium environments for single and multi-agent reinforceme... |
 | [uavorg/uavstack](https://github.com/uavorg/uavstack) | 716 | Java | UAVStack Open Source  All in One Repository |
-| [ZJU-FAST-Lab/EGO-Planner-v2](https://github.com/ZJU-FAST-Lab/EGO-Planner-v2) | 700 | C++ | Swarm Playground, the codebase of the paper "Swarm of micro flying rob... |
-| [MISTLab/Swarm-SLAM](https://github.com/MISTLab/Swarm-SLAM) | 658 | Shell | Sparse Decentralized Collaborative Simultaneous Localization and Mappi... |
+| [ZJU-FAST-Lab/EGO-Planner-v2](https://github.com/ZJU-FAST-Lab/EGO-Planner-v2) | 705 | C++ | Swarm Playground, the codebase of the paper "Swarm of micro flying rob... |
+| [MISTLab/Swarm-SLAM](https://github.com/MISTLab/Swarm-SLAM) | 659 | Shell | Sparse Decentralized Collaborative Simultaneous Localization and Mappi... |
 | [sensepost/Snoopy](https://github.com/sensepost/Snoopy) | 612 | Python | Snoopy: A distributed tracking and data interception framework |
-| [wangwei39120157028/UAVS](https://github.com/wangwei39120157028/UAVS) | 562 | JavaScript | Intelligent UAV path planning simulation system is a software with fin... |
-| [lijx10/uwb-localization](https://github.com/lijx10/uwb-localization) | 418 | C++ | Accurate 3D Localization for MAV Swarms by UWB and IMU Fusion. ICCA 20... |
+| [wangwei39120157028/UAVS](https://github.com/wangwei39120157028/UAVS) | 563 | JavaScript | Intelligent UAV path planning simulation system is a software with fin... |
+| [lijx10/uwb-localization](https://github.com/lijx10/uwb-localization) | 419 | C++ | Accurate 3D Localization for MAV Swarms by UWB and IMU Fusion. ICCA 20... |
 | [xuhao1/TaichiSLAM](https://github.com/xuhao1/TaichiSLAM) | 384 | Python | A 3D Dense mapping backend library of SLAM based on taichi-Lang design... |
 | [USC-ACTLab/crazyswarm](https://github.com/USC-ACTLab/crazyswarm) | 374 | Python | A Large Quadcopter Swarm |
 | [buzz-lang/Buzz](https://github.com/buzz-lang/Buzz) | 318 | C | A programming language designed for robot swarms. |
-| [zhongshp/DCL-SLAM](https://github.com/zhongshp/DCL-SLAM) | 316 | C++ | A ROS package of DCL-SLAM: Distributed Collaborative LiDAR SLAM Framew... |
+| [zhongshp/DCL-SLAM](https://github.com/zhongshp/DCL-SLAM) | 317 | C++ | A ROS package of DCL-SLAM: Distributed Collaborative LiDAR SLAM Framew... |
 | [ilpincy/argos3](https://github.com/ilpincy/argos3) | 312 | C++ | A parallel, multi-engine simulator for heterogeneous swarm robotics |
 | [lis-epfl/swarmlab](https://github.com/lis-epfl/swarmlab) | 305 | MATLAB | SmarmLab: a versatile Matlab package for drone swarm simulation. |
-| [reinshift/MADDPG_Multi_UAV_Roundup](https://github.com/reinshift/MADDPG_Multi_UAV_Roundup) | 275 | Python | Multi-UAV target round-up based on MADDPG |
-| [Robotics-STAR-Lab/SOAR](https://github.com/Robotics-STAR-Lab/SOAR) | 230 | C++ | [IROS'24 Oral] A Heterogeneous Multi-UAV Planner for Fast Autonomous R... |
+| [reinshift/MADDPG_Multi_UAV_Roundup](https://github.com/reinshift/MADDPG_Multi_UAV_Roundup) | 276 | Python | Multi-UAV target round-up based on MADDPG |
+| [Robotics-STAR-Lab/SOAR](https://github.com/Robotics-STAR-Lab/SOAR) | 231 | C++ | [IROS'24 Oral] A Heterogeneous Multi-UAV Planner for Fast Autonomous R... |
 | [hbayerlein/uav_data_harvesting](https://github.com/hbayerlein/uav_data_harvesting) | 216 | Python | Python implementation of DDQN multi-UAV data harvesting |
 | [SysuUavFormation/UAV_Formation_Ground_Station](https://github.com/SysuUavFormation/UAV_Formation_Ground_Station) | 197 | C++ | 室外基于GPS的无人机分布式编队避障飞行 |
 | [robin-shaun/Multi-UAV-Task-Assignment-Benchmark](https://github.com/robin-shaun/Multi-UAV-Task-Assignment-Benchmark) | 196 | Python | A Benchmark for Multi-UAV Task Allocation of an Extended Team Orientee... |
-| [thu-uav/Multi-UAV-pursuit-evasion](https://github.com/thu-uav/Multi-UAV-pursuit-evasion) | 192 | Python | Multi-UAV Pursuit-Evasion with Online Planning in Unknown Environments... |
+| [thu-uav/Multi-UAV-pursuit-evasion](https://github.com/thu-uav/Multi-UAV-pursuit-evasion) | 193 | Python | Multi-UAV Pursuit-Evasion with Online Planning in Unknown Environments... |
 | [AlexJinlei/Autonomous_UAVs_Swarm_Mission](https://github.com/AlexJinlei/Autonomous_UAVs_Swarm_Mission) | 188 | Python |  |
-| [SJTUwbl/MaCA](https://github.com/SJTUwbl/MaCA) | 167 | Python | Multi-agent Combat Arena (UAV swarm vs UAV swarm) |
+| [SJTUwbl/MaCA](https://github.com/SJTUwbl/MaCA) | 168 | Python | Multi-agent Combat Arena (UAV swarm vs UAV swarm) |
 | [ZJU-FAST-Lab/Car-like-Robotic-swarm](https://github.com/ZJU-FAST-Lab/Car-like-Robotic-swarm) | 158 | C++ | Source code for the decentralized car-like robotic swarm |
 | [zeyang23/Formation-Control](https://github.com/zeyang23/Formation-Control) | 157 | MATLAB | time-varying formation control of UAVs |
 | [WilliamFun/UAV_swarm_3d_simulation](https://github.com/WilliamFun/UAV_swarm_3d_simulation) | 142 | MATLAB | Simulation of coordinated formation control of UAV based on leader-fol... |
@@ -198,11 +198,11 @@
 | [damies13/rfswarm](https://github.com/damies13/rfswarm) | 126 | HTML | Robot Framework Swarm |
 | [skybrush-io/skybrush-server](https://github.com/skybrush-io/skybrush-server) | 122 | Python | Server component for Skybrush, an open-source drone light show and dro... |
 | [TensorSwarm/TensorSwarm](https://github.com/TensorSwarm/TensorSwarm) | 122 | Python | TensorSwarm: A framework for reinforcement learning of robot swarms. |
-| [ROS2swarm/ROS2swarm](https://github.com/ROS2swarm/ROS2swarm) | 118 | Python | A ROS 2 package providing an easy-to-extend framework for and library ... |
 | [zhongshp/Co-LRIO](https://github.com/zhongshp/Co-LRIO) | 118 | C++ | A ROS2 package of CoLRIO: LiDAR-Ranging-Inertial Centralized State Est... |
+| [ROS2swarm/ROS2swarm](https://github.com/ROS2swarm/ROS2swarm) | 117 | Python | A ROS 2 package providing an easy-to-extend framework for and library ... |
 | [skybrush-io/live](https://github.com/skybrush-io/live) | 114 | TypeScript | An open-source drone show and drone swarm ground control station GUI f... |
-| [monemati/multiuav-gazebo-simulation](https://github.com/monemati/multiuav-gazebo-simulation) | 112 | Shell | Tutorial for Multi-UAV (Quadcopters) simulation in Gazebo and Ardupilo... |
 | [shupx/swarm_ros_bridge](https://github.com/shupx/swarm_ros_bridge) | 112 | C++ | A lightweight middle interface that enables specified ROS message tran... |
+| [monemati/multiuav-gazebo-simulation](https://github.com/monemati/multiuav-gazebo-simulation) | 111 | Shell | Tutorial for Multi-UAV (Quadcopters) simulation in Gazebo and Ardupilo... |
 | [gustavoavellar/multi-uav-planning](https://github.com/gustavoavellar/multi-uav-planning) | 110 | Matlab | This is a matlab code used in the paper Multi-UAV Routing for Area Cov... |
 | [LYSJ-feng/mCPP-based-on-MADDPG](https://github.com/LYSJ-feng/mCPP-based-on-MADDPG) | 108 | - | created an environment of 10*10 grid and 4 UAVs to carry out coverage ... |
 
@@ -212,31 +212,32 @@
 
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
-| [sgoudelis/ground-station](https://github.com/sgoudelis/ground-station) | 4,558 | JavaScript | Browser-based ground station suite for satellite tracking, SDR recepti... |
-| [laxnpander/OpenREALM](https://github.com/laxnpander/OpenREALM) | 552 | C++ | OpenREALM is a pipeline for real-time aerial mapping utilizing visual ... |
-| [batear-io/batear](https://github.com/batear-io/batear) | 256 | C | ● batear — Ultra-low-cost, off-grid acoustic drone detector (ESP32-S3 ... |
-| [Dmmm1997/DenseUAV](https://github.com/Dmmm1997/DenseUAV) | 225 | Python | 「TIP2023」Vision-Based UAV Self-Positioning in Low-Altitude Urban Envir... |
+| [sgoudelis/ground-station](https://github.com/sgoudelis/ground-station) | 4,594 | JavaScript | Browser-based ground station suite for satellite tracking, SDR recepti... |
+| [laxnpander/OpenREALM](https://github.com/laxnpander/OpenREALM) | 554 | C++ | OpenREALM is a pipeline for real-time aerial mapping utilizing visual ... |
+| [batear-io/batear](https://github.com/batear-io/batear) | 264 | C | ● batear — Ultra-low-cost, off-grid acoustic drone detector (ESP32-S3 ... |
+| [Dmmm1997/DenseUAV](https://github.com/Dmmm1997/DenseUAV) | 226 | Python | 「TIP2023」Vision-Based UAV Self-Positioning in Low-Altitude Urban Envir... |
 | [anish-bhattacharya/vitfly](https://github.com/anish-bhattacharya/vitfly) | 188 | C++ | Official repository for the paper "Vision Transformers for End-to-End ... |
 | [SJTU-ViSYS-team/VisFly](https://github.com/SJTU-ViSYS-team/VisFly) | 135 | Python | This is a fast and versatile simulator for training vision-based fligh... |
-| [alebal123bal/khadas_yolov8n_multithread](https://github.com/alebal123bal/khadas_yolov8n_multithread) | 72 | C++ | Real-time YOLOv8n UAV detection at the sensor's 46 FPS ceiling, in ~14... |
-| [UT-ADL/milrem_visual_offroad_navigation](https://github.com/UT-ADL/milrem_visual_offroad_navigation) | 57 | Jupyter Notebook | Vision-based off-road navigation with geographical hints |
-| [zhangcbb/yolov14](https://github.com/zhangcbb/yolov14) | 55 | Python | YOLOv14: A cross-domain real-time object detection framework for fishe... |
-| [boubinjg/SoftwarePilot](https://github.com/boubinjg/SoftwarePilot) | 52 | HTML | SoftwarePilot is an open source software suite to support aerial syste... |
-| [wd-sir/UAVDETR](https://github.com/wd-sir/UAVDETR) | 50 | Python | This is the official code for UAV-DETR: DETR for Anti-Drone Target Det... |
+| [zhangcbb/yolov14](https://github.com/zhangcbb/yolov14) | 88 | Python | YOLOv14: A cross-domain real-time object detection framework for fishe... |
+| [alebal123bal/khadas_yolov8n_multithread](https://github.com/alebal123bal/khadas_yolov8n_multithread) | 79 | C++ | Real-time YOLOv8n UAV detection at the sensor's 46 FPS ceiling, in ~14... |
+| [UT-ADL/milrem_visual_offroad_navigation](https://github.com/UT-ADL/milrem_visual_offroad_navigation) | 58 | Jupyter Notebook | Vision-based off-road navigation with geographical hints |
+| [wd-sir/UAVDETR](https://github.com/wd-sir/UAVDETR) | 57 | Python | This is the official code for UAV-DETR: DETR for Anti-Drone Target Det... |
+| [boubinjg/SoftwarePilot](https://github.com/boubinjg/SoftwarePilot) | 53 | HTML | SoftwarePilot is an open source software suite to support aerial syste... |
 | [kbhujbal/SudarshanChakra-acoustic_uav_threat_detection_CNN](https://github.com/kbhujbal/SudarshanChakra-acoustic_uav_threat_detection_CNN) | 43 | Python | 🔇 A production-grade deep learning system for real-time drone/UAV dete... |
 | [verticalphotoplacer/VerticalPhotoPlacer](https://github.com/verticalphotoplacer/VerticalPhotoPlacer) | 39 | Python | A free open source plugin for QGIS that performs quick placement of ve... |
 | [Paulooh007/drone-based-plant-monitoring-system](https://github.com/Paulooh007/drone-based-plant-monitoring-system) | 29 | Jupyter Notebook | Drone Based System for Plant Monitoring and Data Collection using Comp... |
 | [rfonod/geo-trax](https://github.com/rfonod/geo-trax) | 29 | Python | 🚀 Geo-trax is a comprehensive pipeline for extracting and analyzing hi... |
+| [GH0ST3CH/BLE-Hound](https://github.com/GH0ST3CH/BLE-Hound) | 28 | Kotlin | An Android app that actively scans and identifies nearby BLE devices l... |
 | [paulisaac936/drone-detection](https://github.com/paulisaac936/drone-detection) | 28 | Jupyter Notebook |  |
 | [MuonRay/PythonNDVI](https://github.com/MuonRay/PythonNDVI) | 26 | Python | Python coding that takes images acquired using a Near-Infrared (NIR) c... |
-| [GH0ST3CH/BLE-Hound](https://github.com/GH0ST3CH/BLE-Hound) | 25 | Kotlin | An Android app that actively scans and identifies nearby BLE devices l... |
 | [qualisys/ros-resources](https://github.com/qualisys/ros-resources) | 23 | - | Resources for integrating ROS (Robot Operating System) projects with Q... |
 | [IeiuniumLux/Visual-SLAM](https://github.com/IeiuniumLux/Visual-SLAM) | 22 | C++ | Autonomous navigation of small UAS through unknown environments using ... |
 | [farooqhassaan/FlyPose](https://github.com/farooqhassaan/FlyPose) | 21 | Python | FlyPose is a lightweight drone-based person detection and human pose e... |
-| [probably-oxy/drift-audio](https://github.com/probably-oxy/drift-audio) | 20 | HTML | Drift is an ambient soundscape mixer for sleep and focus. Layer nature... |
 | [Alying/Fire-Detector](https://github.com/Alying/Fire-Detector) | 19 | Python | Detects the sizes of possible wildfires and the rate at which those fi... |
+| [probably-oxy/drift-audio](https://github.com/probably-oxy/drift-audio) | 19 | HTML | Drift is an ambient soundscape mixer for sleep and focus. Layer nature... |
 | [cmusatyalab/steeleagle](https://github.com/cmusatyalab/steeleagle) | 18 | Python | Automated drone flights for visual inspection tasks |
-| [luyii-code-1/Light_RID_Scanner](https://github.com/luyii-code-1/Light_RID_Scanner) | 16 | Python | Open-source Remote ID & OpenDroneID Wi-Fi scanner for drone detection ... |
+| [luyii-code-1/Light_RID_Scanner](https://github.com/luyii-code-1/Light_RID_Scanner) | 18 | Python | Open-source Remote ID & OpenDroneID Wi-Fi scanner for drone detection ... |
+| [sepahead/crebain](https://github.com/sepahead/crebain) | 16 | TypeScript | Adaptive Response & Awareness System (ARAS): research-oriented tactica... |
 | [abdalrahimnaser/dronelib_py](https://github.com/abdalrahimnaser/dronelib_py) | 15 | Python | A Python API for controlling the E99 toy drone with access to the live... |
 | [yuxiangdai/TellORB](https://github.com/yuxiangdai/TellORB) | 15 | C++ | Real-time visual Simultaneous Localization and Mapping using ORB-SLAM2... |
 | [RMIT-Hive-Rocketry/GCS](https://github.com/RMIT-Hive-Rocketry/GCS) | 15 | Python | Ground Control Station software for RMIT's High Velocity rocket team. |
@@ -251,7 +252,6 @@
 | [HexiangH/TMRGBT-D2D](https://github.com/HexiangH/TMRGBT-D2D) | 11 | - | A Temporal Misaligned RGB-Thermal Dataset for Drone to Drone Target De... |
 | [AutonomyLab/bebop_vservo](https://github.com/AutonomyLab/bebop_vservo) | 10 | C++ | Visual servo controller for Parrot Bebop Drone (ROS package) |
 | [COS301-SE-2021/High-Five](https://github.com/COS301-SE-2021/High-Five) | 10 | C# | High Five is a real-time image analysis platform for images and videos... |
-| [AVL-TMU/slam-ros2](https://github.com/AVL-TMU/slam-ros2) | 10 | Python | repo for real-time SLAM on aerial drones using ROS2, RTAB-Map etc. |
 
 ---
 
@@ -259,46 +259,46 @@
 
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
-| [cirosantilli/china-dictatorship](https://github.com/cirosantilli/china-dictatorship) | 3,072 | HTML | 反中共政治宣传库。Anti Chinese government propaganda. 住在中国真名用户的网友请别给星星，不然你要被警察请... |
+| [cirosantilli/china-dictatorship](https://github.com/cirosantilli/china-dictatorship) | 3,080 | HTML | 反中共政治宣传库。Anti Chinese government propaganda. 住在中国真名用户的网友请别给星星，不然你要被警察请... |
 | [renode/renode](https://github.com/renode/renode) | 2,289 | RobotFramework | Renode - Antmicro's open source simulation and virtual development fra... |
-| [gege-circle/.github](https://github.com/gege-circle/.github) | 1,926 | - | 这里是GitHub的草场，也是戈戈圈爱好者的交流地，主要讨论动漫、游戏、科技、人文、生活等所有话题，欢迎各位小伙伴们在此讨论趣事。This ... |
+| [gege-circle/.github](https://github.com/gege-circle/.github) | 1,928 | - | 这里是GitHub的草场，也是戈戈圈爱好者的交流地，主要讨论动漫、游戏、科技、人文、生活等所有话题，欢迎各位小伙伴们在此讨论趣事。This ... |
 | [JSBSim-Team/jsbsim](https://github.com/JSBSim-Team/jsbsim) | 1,910 | C++ | An open source flight dynamics & control software library |
-| [robin-shaun/XTDrone](https://github.com/robin-shaun/XTDrone) | 1,675 | C++ | UAV Simulation Platform based on PX4, ROS and Gazebo |
-| [ethz-asl/rotors_simulator](https://github.com/ethz-asl/rotors_simulator) | 1,484 | C++ | RotorS is a UAV gazebo simulator |
-| [damiafuentes/DJITelloPy](https://github.com/damiafuentes/DJITelloPy) | 1,473 | Python | DJI Tello drone python interface using the official Tello SDK. Feel fr... |
+| [robin-shaun/XTDrone](https://github.com/robin-shaun/XTDrone) | 1,681 | C++ | UAV Simulation Platform based on PX4, ROS and Gazebo |
+| [ethz-asl/rotors_simulator](https://github.com/ethz-asl/rotors_simulator) | 1,486 | C++ | RotorS is a UAV gazebo simulator |
+| [damiafuentes/DJITelloPy](https://github.com/damiafuentes/DJITelloPy) | 1,475 | Python | DJI Tello drone python interface using the official Tello SDK. Feel fr... |
 | [dji-sdk/Tello-Python](https://github.com/dji-sdk/Tello-Python) | 1,446 | Python | This is a collection of python modules that interact with the Ryze Tel... |
 | [uzh-rpg/flightmare](https://github.com/uzh-rpg/flightmare) | 1,311 | C++ | An Open Flexible Quadrotor Simulator |
 | [acados/acados](https://github.com/acados/acados) | 1,249 | C | Fast and embedded solvers for nonlinear optimal control and nonlinear ... |
 | [gazebosim/gz-sim](https://github.com/gazebosim/gz-sim) | 1,219 | C++ | Open source robotics simulator. The latest version of Gazebo. |
-| [qzq1111/flask-restful-example](https://github.com/qzq1111/flask-restful-example) | 1,007 | Python | flask后端开发接口示例，利用Flask开发后端API接口。包含基本的项目配置、统一响应、MySQL和Redis数据库操作、定时任务、图片... |
+| [qzq1111/flask-restful-example](https://github.com/qzq1111/flask-restful-example) | 1,006 | Python | flask后端开发接口示例，利用Flask开发后端API接口。包含基本的项目配置、统一响应、MySQL和Redis数据库操作、定时任务、图片... |
 | [fsphil/hacktv](https://github.com/fsphil/hacktv) | 885 | C | Analogue TV transmitter for the HackRF |
-| [PegasusSimulator/PegasusSimulator](https://github.com/PegasusSimulator/PegasusSimulator) | 822 | Python | A framework built on top of NVIDIA Isaac Sim for simulating drones wit... |
-| [iamaisim/ProjectAirSim](https://github.com/iamaisim/ProjectAirSim) | 716 | C++ | Project AirSim is Microsoft's evolution of AirSim, an advanced simulat... |
-| [hku-mars/MARSIM](https://github.com/hku-mars/MARSIM) | 538 | C++ | MARSIM: A light-weight point-realistic simulator for LiDAR-based UAVs |
+| [PegasusSimulator/PegasusSimulator](https://github.com/PegasusSimulator/PegasusSimulator) | 826 | Python | A framework built on top of NVIDIA Isaac Sim for simulating drones wit... |
+| [iamaisim/ProjectAirSim](https://github.com/iamaisim/ProjectAirSim) | 722 | C++ | Project AirSim is Microsoft's evolution of AirSim, an advanced simulat... |
+| [hku-mars/MARSIM](https://github.com/hku-mars/MARSIM) | 541 | C++ | MARSIM: A light-weight point-realistic simulator for LiDAR-based UAVs |
 | [Jiaaqiliu/Awesome-VLA-Robotics](https://github.com/Jiaaqiliu/Awesome-VLA-Robotics) | 501 | - | A comprehensive list of excellent research papers, models, datasets, a... |
 | [PX4/PX4-SITL_gazebo-classic](https://github.com/PX4/PX4-SITL_gazebo-classic) | 459 | C++ | Set of plugins, models and worlds to use with OSRF Gazebo Simulator in... |
 | [UCF-SST-Lab/UCF-SST-CitySim1-Dataset](https://github.com/UCF-SST-Lab/UCF-SST-CitySim1-Dataset) | 422 | Python | Official github page of UCF SST CitySim Dataset |
-| [kitoweeknd/RFUAV](https://github.com/kitoweeknd/RFUAV) | 410 | Python | This is official repository of our paper "RFUAV: A Benchmark Dataset f... |
+| [kitoweeknd/RFUAV](https://github.com/kitoweeknd/RFUAV) | 413 | Python | This is official repository of our paper "RFUAV: A Benchmark Dataset f... |
 | [tu-darmstadt-ros-pkg/hector_quadrotor](https://github.com/tu-darmstadt-ros-pkg/hector_quadrotor) | 403 | C++ | hector_quadrotor contains packages related to modeling, control and si... |
-| [Cosys-Lab/Cosys-AirSim](https://github.com/Cosys-Lab/Cosys-AirSim) | 381 | C++ | AirSim is a simulator for drones, cars and more, built on Unreal Engin... |
-| [cirosantilli/china-dictatroship-7](https://github.com/cirosantilli/china-dictatroship-7) | 352 | HTML | 反中共政治宣传库。Anti Chinese government propaganda. https://github.com/cirosa... |
-| [InsulatorData/InsulatorDataSet](https://github.com/InsulatorData/InsulatorDataSet) | 346 | - | Provide normal insulator images captured by UAVs and synthetic defecti... |
+| [Cosys-Lab/Cosys-AirSim](https://github.com/Cosys-Lab/Cosys-AirSim) | 384 | C++ | AirSim is a simulator for drones, cars and more, built on Unreal Engin... |
+| [cirosantilli/china-dictatroship-7](https://github.com/cirosantilli/china-dictatroship-7) | 351 | HTML | 反中共政治宣传库。Anti Chinese government propaganda. https://github.com/cirosa... |
+| [InsulatorData/InsulatorDataSet](https://github.com/InsulatorData/InsulatorDataSet) | 348 | - | Provide normal insulator images captured by UAVs and synthetic defecti... |
 | [chengji253/Multiple-fixed-wing-UAVs-flight-simulation-platform](https://github.com/chengji253/Multiple-fixed-wing-UAVs-flight-simulation-platform) | 321 | MATLAB | A Multiple Fixed-Wing UAVs Flight Simulation Platform Built by MATLAB ... |
 | [lindemer/baldr](https://github.com/lindemer/baldr) | 317 | Python | Quadcopter flight simulator |
 | [wilselby/ROS_quadrotor_simulator](https://github.com/wilselby/ROS_quadrotor_simulator) | 298 | C++ | Quadrotor simulator using ROS, Gazebo, and RVIZ |
-| [dch33/Quad-Sim](https://github.com/dch33/Quad-Sim) | 293 | Matlab | A package of documentation and software supporting MATLAB/Simulink bas... |
+| [dch33/Quad-Sim](https://github.com/dch33/Quad-Sim) | 294 | Matlab | A package of documentation and software supporting MATLAB/Simulink bas... |
 | [drone/drone-go](https://github.com/drone/drone-go) | 288 | Go | Go client for the Drone API |
 | [sutdcv/UAV-Human](https://github.com/sutdcv/UAV-Human) | 253 | Python | [CVPR2021] UAV-Human: A Large Benchmark for Human Behavior Understandi... |
-| [camUrban/PteraSoftware](https://github.com/camUrban/PteraSoftware) | 250 | Python | Ptera Software is a fast, easy-to-use, and open-source software packag... |
+| [camUrban/PteraSoftware](https://github.com/camUrban/PteraSoftware) | 251 | Python | Ptera Software is a fast, easy-to-use, and open-source software packag... |
 | [SUTDCV/UAV-Human](https://github.com/sutdcv/UAV-Human) | 245 | Python | [CVPR2021] UAV-Human: A Large Benchmark for Human Behavior Understandi... |
-| [DJISDKUser/ESP8266_DJI_DroneID_Throwie](https://github.com/DJISDKUser/ESP8266_DJI_DroneID_Throwie) | 235 | C++ | ESP8266 based droneID spoofing Throwie example for DJI DroneID (Remote... |
-| [ntu-aris/MMAUD](https://github.com/ntu-aris/MMAUD) | 233 | SCSS | [ICRA-2024] MMAUD: A comprehensive multi-modal anti-UAV dataset for mo... |
+| [ntu-aris/MMAUD](https://github.com/ntu-aris/MMAUD) | 236 | SCSS | [ICRA-2024] MMAUD: A comprehensive multi-modal anti-UAV dataset for mo... |
+| [DJISDKUser/ESP8266_DJI_DroneID_Throwie](https://github.com/DJISDKUser/ESP8266_DJI_DroneID_Throwie) | 236 | C++ | ESP8266 based droneID spoofing Throwie example for DJI DroneID (Remote... |
 | [spencerfolk/rotorpy](https://github.com/spencerfolk/rotorpy) | 224 | Python | A multirotor simulator with aerodynamics for education and research. |
-| [Insta360-Research-Team/AirSim360](https://github.com/Insta360-Research-Team/AirSim360) | 213 | - | Official implementation of "AirSim360: A Panoramic Simulation Platform... |
-| [NovoG93/sjtu_drone](https://github.com/NovoG93/sjtu_drone) | 208 | Python | ROS/ ROS 2 Gazebo quadcopter simulator. |
-| [mRFWq7LwNPZjaVv5v6eo/cihna-dictattorshrip-8](https://github.com/mRFWq7LwNPZjaVv5v6eo/cihna-dictattorshrip-8) | 203 | HTML | 反中共政治宣传库。Anti Chinese government propaganda. https://github.com/cirosa... |
-| [guchuanv-alt/SimART](https://github.com/guchuanv-alt/SimART) | 196 | C++ | An open-source software platform for all-scenario wireless communicati... |
-| [sijieaaa/UAVScenes](https://github.com/sijieaaa/UAVScenes) | 192 | Python | (ICCV 2025) UAVScenes: A Multi-Modal Dataset for UAVs |
+| [Insta360-Research-Team/AirSim360](https://github.com/Insta360-Research-Team/AirSim360) | 215 | - | Official implementation of "AirSim360: A Panoramic Simulation Platform... |
+| [NovoG93/sjtu_drone](https://github.com/NovoG93/sjtu_drone) | 209 | Python | ROS/ ROS 2 Gazebo quadcopter simulator. |
+| [mRFWq7LwNPZjaVv5v6eo/cihna-dictattorshrip-8](https://github.com/mRFWq7LwNPZjaVv5v6eo/cihna-dictattorshrip-8) | 204 | HTML | 反中共政治宣传库。Anti Chinese government propaganda. https://github.com/cirosa... |
+| [guchuanv-alt/SimART](https://github.com/guchuanv-alt/SimART) | 197 | C++ | An open-source software platform for all-scenario wireless communicati... |
+| [sijieaaa/UAVScenes](https://github.com/sijieaaa/UAVScenes) | 193 | Python | (ICCV 2025) UAVScenes: A Multi-Modal Dataset for UAVs |
 
 ---
 
@@ -306,15 +306,15 @@
 
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
-| [WebODM/WebODM](https://github.com/WebODM/WebODM) | 4,003 | Python | User-friendly, commercial-grade software for processing aerial imagery... |
+| [WebODM/WebODM](https://github.com/WebODM/WebODM) | 4,014 | Python | User-friendly, commercial-grade software for processing aerial imagery... |
 | [VIDA-NYU/tile2net](https://github.com/VIDA-NYU/tile2net) | 221 | Python | Automated mapping of pedestrian networks from aerial imagery tiles |
-| [YLabs-FPV/YMapper](https://github.com/YLabs-FPV/YMapper) | 145 | Dart | A cross-platform tool to create automatic Survey/Photogrammetry missio... |
+| [YLabs-FPV/YMapper](https://github.com/YLabs-FPV/YMapper) | 146 | Dart | A cross-platform tool to create automatic Survey/Photogrammetry missio... |
 | [YarosMallorca/DJI-Mapper](https://github.com/YarosMallorca/DJI-Mapper) | 144 | Dart | A cross-platform tool to create automatic Survey/Photogrammetry missio... |
-| [hifihedgehog/PadForge](https://github.com/hifihedgehog/PadForge) | 140 | C# | Windows controller remapper. Any input device in, any virtual controll... |
+| [hifihedgehog/PadForge](https://github.com/hifihedgehog/PadForge) | 144 | C# | Windows controller remapper. Any input device in, any virtual controll... |
 | [hwiyoung/Orthophoto_Maps](https://github.com/hwiyoung/Orthophoto_Maps) | 133 | Python | A mapping software that generate individual maps(orthophotos) from ima... |
 | [SYSU-RoboticsLab/GAC-Mapping](https://github.com/SYSU-RoboticsLab/GAC-Mapping) | 95 | C++ | [RAL 21] Ground and Aerial Collaborative Mapping in Urban Environments |
 | [WHU-USI3DV/DeepAAT](https://github.com/WHU-USI3DV/DeepAAT) | 53 | Python | [IJAG'24] DeepAAT: Deep Automated Aerial Triangulation for Fast UAV-ba... |
-| [WebODM/ODX](https://github.com/WebODM/ODX) | 38 | Python | Free and open source photogrammetry engine. Generate maps, point cloud... |
+| [WebODM/ODX](https://github.com/WebODM/ODX) | 39 | Python | Free and open source photogrammetry engine. Generate maps, point cloud... |
 | [bibas-17/Targeted-pesticide-delivery-system](https://github.com/bibas-17/Targeted-pesticide-delivery-system) | 32 | - | A targeted pesticide delivery system applies pesticides only to specif... |
 | [williamlidberg/Mapping-drainage-ditches-in-forested-landscapes-using-deep-learning-and-aerial-laser-scanning](https://github.com/williamlidberg/Mapping-drainage-ditches-in-forested-landscapes-using-deep-learning-and-aerial-laser-scanning) | 31 | Jupyter Notebook | This project aims to map small ditches from high resolution LiDAR data... |
 | [gisma/uavRmp](https://github.com/gisma/uavRmp) | 28 | R | Unmanned Aerial Vehicle R based Mission Planner |
@@ -324,7 +324,7 @@
 | [GFDRR/caribbean-rooftop-classification](https://github.com/GFDRR/caribbean-rooftop-classification) | 22 | Jupyter Notebook | Mapping Housing Stock Characteristics from VHR Drone Images and LiDAR ... |
 | [VietDucNg/Metashape-photogrammetry](https://github.com/VietDucNg/Metashape-photogrammetry) | 22 | Python | Metashape step-by-step tutorial for creating point clouds, orthomosaic... |
 | [gis-yang/DroneMapping](https://github.com/gis-yang/DroneMapping) | 21 | - | Drone Mapping Training Course for Coastal Management and Seagrass Cons... |
-| [laxnpander/OpenREALM_ROS1_Bridge](https://github.com/laxnpander/OpenREALM_ROS1_Bridge) | 20 | C++ | ROS1 bridge for OpenREALM, a real-time aerial mapping framework |
+| [laxnpander/OpenREALM_ROS1_Bridge](https://github.com/laxnpander/OpenREALM_ROS1_Bridge) | 21 | C++ | ROS1 bridge for OpenREALM, a real-time aerial mapping framework |
 | [pdfinn/flightplan2litchimission](https://github.com/pdfinn/flightplan2litchimission) | 20 | Go | A command-line tool for converting the output from the QGIS Flight Pla... |
 | [VIS4ROB-lab/mesh_based_mapping](https://github.com/VIS4ROB-lab/mesh_based_mapping) | 18 | - | Real-Time Mesh-based Scene Estimation for Aerial Inspection |
 | [v4rl-ucy/mesh_based_mapping](https://github.com/v4rl-ucy/mesh_based_mapping) | 18 | - | Real-Time Mesh-based Scene Estimation for Aerial Inspection |
@@ -342,6 +342,7 @@
 | [viariasv/weedMap](https://github.com/viariasv/weedMap) | 10 | Jupyter Notebook | A Large-Scale Semantic Weed Mapping Framework Using Aerial Multispectr... |
 | [v4rl-ucy/v4rl_mesh_based_mapping_lib](https://github.com/v4rl-ucy/v4rl_mesh_based_mapping_lib) | 10 | C++ | Real-Time Mesh-based Scene Estimation for Aerial Inspection - IROS2016 |
 | [weilonghao/Truck-Drone-Joint-Delivery-Route-Optimization-](https://github.com/weilonghao/Truck-Drone-Joint-Delivery-Route-Optimization-) | 10 | Python | 基于自适应大邻域搜索算法(ALNS)的卡车-无人机联合配送路径优化系统，解决带时间窗的取送货问题(PDPTW)，实现卡车与无人机的协同配送优... |
+| [hdrpano/map-creator](https://github.com/hdrpano/map-creator) | 10 | Python | DJI Drone grid generator for 3D mapping, polygon, helix, circle missio... |
 
 ---
 
@@ -363,31 +364,31 @@
 | [HKUST-Aerial-Robotics/VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) | 4,391 | C++ | An optimization-based multi-sensor state estimator |
 | [f4exb/sdrangel](https://github.com/f4exb/sdrangel) | 3,657 | C++ | SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, P... |
 | [gqrx-sdr/gqrx](https://github.com/gqrx-sdr/gqrx) | 3,535 | C++ | Software defined radio receiver powered by GNU Radio and Qt. |
-| [Circuit-Digest/ESP-Drone](https://github.com/Circuit-Digest/ESP-Drone) | 2,150 | C |  |
+| [Circuit-Digest/ESP-Drone](https://github.com/Circuit-Digest/ESP-Drone) | 2,171 | C |  |
 | [SysSec-KAIST/LTESniffer](https://github.com/SysSec-KAIST/LTESniffer) | 2,135 | C++ | An Open-source LTE Downlink/Uplink Eavesdropper |
 | [ASHWIN990/ADB-Toolkit](https://github.com/ASHWIN990/ADB-Toolkit) | 1,941 | Shell | ADB-Toolkit V2 for easy ADB tricks with many perks in all one. ENJOY! |
 | [pascallanger/DIY-Multiprotocol-TX-Module](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module) | 1,833 | C++ | Multiprotocol TX Module (or MULTI-Module) is a 2.4GHz transmitter modu... |
-| [felixge/node-ar-drone](https://github.com/felixge/node-ar-drone) | 1,765 | JavaScript | A node.js client for controlling Parrot AR Drone 2.0 quad-copters. |
-| [stephansturges/WALDO](https://github.com/stephansturges/WALDO) | 1,692 | Python | Whereabouts Ascertainment for Low-lying Detectable Objects. The SOTA i... |
+| [felixge/node-ar-drone](https://github.com/felixge/node-ar-drone) | 1,766 | JavaScript | A node.js client for controlling Parrot AR Drone 2.0 quad-copters. |
+| [stephansturges/WALDO](https://github.com/stephansturges/WALDO) | 1,693 | Python | Whereabouts Ascertainment for Low-lying Detectable Objects. The SOTA i... |
 | [openfarmcc/OpenFarm](https://github.com/openfarmcc/OpenFarm) | 1,688 | Ruby | A free and open database for farming and gardening knowledge. You can ... |
 | [ptrkrysik/gr-gsm](https://github.com/ptrkrysik/gr-gsm) | 1,478 | C++ | Gnuradio blocks and tools for receiving GSM transmissions |
 | [BatchDrake/SigDigger](https://github.com/BatchDrake/SigDigger) | 1,465 | C++ | Qt-based digital signal analyzer, using Suscan core and Sigutils DSP l... |
 | [fkie-cad/cwe_checker](https://github.com/fkie-cad/cwe_checker) | 1,322 | Rust | cwe_checker finds vulnerable patterns in binary executables |
-| [RUB-SysSec/DroneSecurity](https://github.com/RUB-SysSec/DroneSecurity) | 1,284 | Python | DroneSecurity (NDSS 2023) |
+| [RUB-SysSec/DroneSecurity](https://github.com/RUB-SysSec/DroneSecurity) | 1,285 | Python | DroneSecurity (NDSS 2023) |
 | [PengyiZhang/SlimYOLOv3](https://github.com/PengyiZhang/SlimYOLOv3) | 1,152 | Python | This page is for the SlimYOLOv3: Narrower, Faster and Better for UAV R... |
 | [stuartpittaway/diyBMSv4](https://github.com/stuartpittaway/diyBMSv4) | 1,090 | HTML | Version 4 of the diyBMS |
 | [Storyyeller/enjarify](https://github.com/Storyyeller/enjarify) | 952 | Python |  |
-| [EOS-team/EOS](https://github.com/EOS-team/EOS) | 900 | C | EOS is a dual-core operating system designed specifically for embodied... |
-| [learnsyslab/safe-control-gym](https://github.com/learnsyslab/safe-control-gym) | 893 | Python | PyBullet CartPole and Quadrotor environments—with CasADi symbolic a pr... |
-| [ZhaoJ9014/Anti-UAV](https://github.com/ZhaoJ9014/Anti-UAV) | 778 | Python | 🔥🔥Official Repository for Anti-UAV🔥🔥 |
+| [EOS-team/EOS](https://github.com/EOS-team/EOS) | 901 | C | EOS is a dual-core operating system designed specifically for embodied... |
+| [learnsyslab/safe-control-gym](https://github.com/learnsyslab/safe-control-gym) | 899 | Python | PyBullet CartPole and Quadrotor environments—with CasADi symbolic a pr... |
+| [ZhaoJ9014/Anti-UAV](https://github.com/ZhaoJ9014/Anti-UAV) | 788 | Python | 🔥🔥Official Repository for Anti-UAV🔥🔥 |
+| [W0rthlessS0ul/nRF24_jammer](https://github.com/W0rthlessS0ul/nRF24_jammer) | 734 | C++ | The nRF24 jammer is a powerful tool that requires an ESP32 and configu... |
 | [INAVFlights/inav-configurator](https://github.com/INAVFlights/inav-configurator) | 728 | JavaScript |  |
-| [W0rthlessS0ul/nRF24_jammer](https://github.com/W0rthlessS0ul/nRF24_jammer) | 721 | C++ | The nRF24 jammer is a powerful tool that requires an ESP32 and configu... |
-| [zserge/grayskull](https://github.com/zserge/grayskull) | 688 | C | A tiny, dependency-free computer vision library in C for embedded syst... |
+| [zserge/grayskull](https://github.com/zserge/grayskull) | 690 | C | A tiny, dependency-free computer vision library in C for embedded syst... |
 | [khs1994-docker/lnmp](https://github.com/khs1994-docker/lnmp) | 678 | Dockerfile | :computer: :whale: :elephant: :dolphin: :penguin: :rocket: Start Docke... |
-| [TeamHypersomnia/rectpack2D](https://github.com/TeamHypersomnia/rectpack2D) | 647 | C++ | A header-only, very efficient 2D rectangle packing library. Used in As... |
+| [TeamHypersomnia/rectpack2D](https://github.com/TeamHypersomnia/rectpack2D) | 649 | C++ | A header-only, very efficient 2D rectangle packing library. Used in As... |
 | [Evrytania/LTE-Cell-Scanner](https://github.com/Evrytania/LTE-Cell-Scanner) | 643 | C++ | LTE SDR cell scanner optimized to work with very low performance RF fr... |
 | [DroidPlanner/Tower](https://github.com/DroidPlanner/Tower) | 635 | Java | Ground Control Station for Android Devices |
-| [webstream-labs/jmuxer](https://github.com/webstream-labs/jmuxer) | 633 | JavaScript | jMuxer - a simple javascript mp4 muxer that works in both browser and ... |
+| [webstream-labs/jmuxer](https://github.com/webstream-labs/jmuxer) | 632 | JavaScript | jMuxer - a simple javascript mp4 muxer that works in both browser and ... |
 | [wesbos/javascript-drones](https://github.com/wesbos/javascript-drones) | 614 | JavaScript |  |
 
 ---
@@ -413,4 +414,4 @@ git clone https://github.com/lllray/awesome-uav.git
 
 ---
 
-<p align="center"><sub>✨ 自动整理 · 2026-06-26 19:57:33</sub></p>
+<p align="center"><sub>✨ 自动整理 · 2026-07-03 20:00:40</sub></p>
