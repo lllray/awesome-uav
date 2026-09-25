@@ -1,11 +1,11 @@
-# 每周报告 2026-09-18
+# 每周报告 2026-09-25
 - 仓库: Awesome UAV / Drone
-- 本周新增: 26 | 总数: 3570 | Stars: 1,946,519
+- 本周新增: 26 | 总数: 3579 | Stars: 1,948,311
 - 链接: https://github.com/lllray/awesome-uav
 
 ## 热门 Top 5
-1. [okalachev/flix](https://github.com/okalachev/flix) +552⭐ — Making an ESP32-based quadcopter from scratch
-2. [agamrossen/VolAnti](https://github.com/agamrossen/VolAnti) +238⭐ — Open-source acoustic drone detection. It hears the propellers, not the radio, so
-3. [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) +57⭐ — PX4 Autopilot Software
-4. [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) +40⭐ — ArduPlane, ArduCopter, ArduRover, ArduSub source
-5. [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol) +32⭐ — Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, W
+1. [RomanSlack/jev-drone](https://github.com/RomanSlack/jev-drone) +133⭐ — Camera-only autonomous drone in MuJoCo with a small judgment model (TypeSafe Jev
+2. [formiat/px4-ros2-drone-nav](https://github.com/formiat/px4-ros2-drone-nav) +81⭐ — 
+3. [okalachev/flix](https://github.com/okalachev/flix) +67⭐ — Making an ESP32-based quadcopter from scratch
+4. [SpikeCalls/FlyDrones](https://github.com/SpikeCalls/FlyDrones) +64⭐ — A fruit fly connectome as a drone pilot. Camera -> fly eyes -> spiking brain -> 
+5. [dimensionalOS/dimos](https://github.com/dimensionalOS/dimos) +57⭐ — Dimensional is the agentic operating system for physical space. Vibecode humanoi
