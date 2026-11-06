@@ -1,11 +1,11 @@
-# Weekly Report 2026-10-30
+# Weekly Report 2026-11-06
 - Repo: Awesome UAV / Drone
-- New: 31 | Total: 3642 | Stars: 1,957,577
+- New: 50 | Total: 3661 | Stars: 1,959,275
 - Link: https://github.com/lllray/awesome-uav
 
 ## Top 5 Trending
-1. [jyjblrd/Low-Cost-Mocap](https://github.com/jyjblrd/Low-Cost-Mocap) +220⭐ — Low cost motion capture system for room scale tracking
-2. [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) +190⭐ — ArduPlane, ArduCopter, ArduRover, ArduSub source
-3. [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) +123⭐ — PX4 Autopilot Software
-4. [okalachev/flix](https://github.com/okalachev/flix) +120⭐ — Making an ESP32-based quadcopter from scratch
-5. [betaflight/betaflight](https://github.com/betaflight/betaflight) +59⭐ — Open Source Flight Controller Firmware
+1. [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) +56⭐ — ArduPlane, ArduCopter, ArduRover, ArduSub source
+2. [CIS-C0/RFSentinel](https://github.com/CIS-C0/RFSentinel) +42⭐ — Passive BLE & WiFi scanner for Android that flags police and surveillance equipm
+3. [okalachev/flix](https://github.com/okalachev/flix) +41⭐ — Making an ESP32-based quadcopter from scratch
+4. [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) +38⭐ — PX4 Autopilot Software
+5. [agamrossen/VolAnti](https://github.com/agamrossen/VolAnti) +28⭐ — Open-source acoustic drone detection. It hears the propellers, not the radio, so
